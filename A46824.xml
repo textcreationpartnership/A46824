@@ -1,0 +1,1341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state of the case, briefly but impartially given betwixt the people called Quakers, Pensilvania, &amp;c. in America, who remain in unity, and George Keith, with some few seduced by him into a separation from them as also a just vindication of my self from the reproaches and abuses of those backsliders / by Samuel Jennings.</title>
+            <author>Jennings, Samuel, d. 1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 122 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46824</idno>
+            <idno type="STC">Wing J670</idno>
+            <idno type="STC">ESTC R3996</idno>
+            <idno type="EEBO-CITATION">12892874</idno>
+            <idno type="OCLC">ocm 12892874</idno>
+            <idno type="VID">95148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95148)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 716:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state of the case, briefly but impartially given betwixt the people called Quakers, Pensilvania, &amp;c. in America, who remain in unity, and George Keith, with some few seduced by him into a separation from them as also a just vindication of my self from the reproaches and abuses of those backsliders / by Samuel Jennings.</title>
+                  <author>Jennings, Samuel, d. 1708.</author>
+               </titleStmt>
+               <extent>[6], 80 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes minutes of a session of the justices of Philadelphia county court, March 25, 1692, Peter Boss's paper attacking Samuel Jennings, and a signed statement by a group of Friends defending the author.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+               <term>Society of Friends --  Pennsylvania --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95148:1"/>
+            <pb facs="tcp:95148:1" rendition="simple:additions"/>
+            <p>THE State of the CASE, Briefly but Impartially given betwixt the PEOPLE called QUAKERS, IN <hi>Penſilvania,</hi> &amp;c. <hi>in America,</hi> who re<g ref="char:EOLhyphen"/>main in UNITY; And George Keith, With ſome few Seduced by him into a <hi>Separa<g ref="char:EOLhyphen"/>tion</hi> from them. As alſo a <hi>Juſt Vindication</hi> of my Self from the Reproaches and Abuſes of thoſe <hi>Backſliders.</hi>
+            </p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL JENNINGS.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 18-17.</hi>
+               </bibl>
+               <p>He that is firſt in his own Cauſe ſeemeth Juſt, but his Neighbour cometh and ſearcheth him.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Exod. 23.-1.</hi>
+               </bibl>
+               <p>Thou ſhalt not raiſe a falſe report, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 120.3, 4.</hi>
+               </bibl>
+               <p>What ſhall be given unto thee, or what ſhall be done unto thee, thou falſe Tongue? Sharp Arrows of the Mighty, with Coals of Juniper.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> near the <hi>Meeting-houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Grace-Church-Street,</hi> and at the <hi>Crooked-Billet</hi> in <hi>Hollywell-Lane</hi> near <hi>Shoreditch.</hi> 1694.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:95148:2"/>
+            <pb facs="tcp:95148:2"/>
+            <head>The PREFACE.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>WEre it not for the ſake of others, I ſhould rather have choſen ſi<g ref="char:EOLhyphen"/>lence (than thus to have appear<g ref="char:EOLhyphen"/>ed) and have made my Innocency my Sanctuary, from the Tempeſts I have met withall, from the Raging Waves of my Implacable Enemies; but leſt my ſilence ſhould paſs for an Implicit Acknow<g ref="char:EOLhyphen"/>ledgment of the Guilt of their Black Charge, and thereby any ſhould ſtumble, or be offerded, I have undertaken to wipe off, and throw back the Dirt they have caſt at me, and to give a Brief Narra<g ref="char:EOLhyphen"/>tion of the True ſtate of Things, as they aroſe, and were carried on betwixt my Principal Adverſary <hi>G. K.</hi> and thoſe of his Party, and Friends that have remained, and are ſtill in <g ref="char:V">Ʋ</g>nity in <hi>America,</hi> that have teſtified againſt <hi>G. K. &amp;c.</hi> for the Breach they have made, and Scandals they have raiſed and ſpread through divers Nations. This is that which comes near them, and ſticks cloſe to them, and of which they ſo often Complain, <hi>viz.</hi> The Judgment of the Twenty Eight Miniſtring Friends given forth againſt <hi>G. K.</hi> and his Adhe<g ref="char:EOLhyphen"/>rents, of which Number my Lot fell to be one, which I am well aſſured is the great reaſon why all this Smoke and Duſt is raiſed againſt me; well, but the Teſtimony is gone forth, and cannot be helped, ſo that in policy there ſeems to be no other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ray to weaken it, and keep up their own Reputati<g ref="char:EOLhyphen"/>on, but by a Monſtrous Charge upon the Subſcri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers of it, which <hi>G. K.</hi> let's us know he is able to de, <hi>Plea of the Innocent, p. 24.</hi> where be ſaith,
+<pb facs="tcp:95148:3"/>
+               <hi>It were an eaſie matter to give ſuch a Cha<g ref="char:EOLhyphen"/>racter of every one of them that have ſigned that Paper of Falſe Judgment, as may render them unqualified Men to give Judgment in ſuch a Weighty Caſe,</hi> &amp;c. But though <hi>G. K.</hi> hath given me ſuch a Character now, it's not long ſince I was his Dear <hi>Samuel,</hi> and he told me, <hi>He did not know that he differed with me in an Hands breadth, and that he had ſought my Friendſhip more than any Mans in</hi> America; which I reminding him of, after he had vilely a<g ref="char:EOLhyphen"/>buſed me, he told me in the hearing of many, <hi>It was not for any Love he had to me, but he knew me to be a Stiff Man, and was not wil<g ref="char:EOLhyphen"/>ling to Engage me againſt him.</hi> Here the Plot's diſcovered at once, he Flatters to gain me to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Party, and that failing, as I ſaid before, there was no other way left but to make me Black enough conſulting the Old Proverb, <hi>Throw Dirt enough and ſome will ſtick:</hi> This is the Temper of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Man, which I am perſwaded will be more ſenſib<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> underſtood in a little time. I had one reaſon m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to confirm me, and may demonſtrate to others the it's matter of Malice, and not Conſcience, the hath occaſioned <hi>G. K.</hi> &amp;c. thus intolerably to ap<g ref="char:EOLhyphen"/>pear againſt me, for had it been Conſcience, an for clearing Truth from the Scandals they beſpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me to have brought upon it, how could they bear <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo long, and let the Truth ſuffer? For the Time they aſſign wherein ſeveral things they would ſug<g ref="char:EOLhyphen"/>geſt me to have done, were ſome Seven, ſome T<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and ſome a Dozen Year ago, in all which time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> never heard ſo much as a whiſper or mutter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the things they charge me with, <hi>G. K. Reaſon
+<pb facs="tcp:95148:3"/>and Cauſes of the Separation, page 18.</hi> Charges <hi>Arthur Cook</hi> with Breach of Goſpel Or<g ref="char:EOLhyphen"/>der for concealing things ſo long, and then bringing them forth againſt him, ſo that <hi>Argumentum ad Hominem,</hi> being a Phraſe of his own, I may juſtly here return upon him: As to the great noiſe they make of Perſecution, I doubt not but the Rea<g ref="char:EOLhyphen"/>der will find by what follows it's a Sham and Abuſe put upon the World; for how can any thing deſerve to be called a Suffering or Perſecution that is ſo much deſired and ſought for? And I am perſwa<g ref="char:EOLhyphen"/>ded that <hi>G. K.'s.</hi> &amp;c. greateſt Suffering from the Government was, that they could not provoke them to do more againſt them, that ſo they might have made more noiſe in the World; but I would adviſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem to a better Behaviour for the future, believ<g ref="char:EOLhyphen"/>ing that no other Government would have been guil<g ref="char:EOLhyphen"/>ty of ſuch Impunity, as to ſuffer Crimes ſo groſs and enormous to paſs with ſo ſlight a Correction.</p>
+            <p>I ſhall give my Reader one Inſtance by which he may judge of the hard uſage that <hi>John M'comb</hi> and <hi>William Bradford</hi> met with during their Confinement, which they repreſent as very Cloſe and Cruel (though, ſaith the Libeller, <hi>p. 11.</hi> of that Book of the Tryal, <hi>&amp;c.</hi>) to give every one their due, while the Goaler was ſo king as to let him, <hi>viz. J. M.</hi> go home an Hour or two ſome<g ref="char:EOLhyphen"/>times in an Evening after it was dark, <hi>&amp;c.</hi> This Deceit is too great to paſs unreproved, had he or his Companions only the favour of a few Hours liberty in an Evening after it was dark. I have heard <hi>John White</hi> ſay, and believe it to be true, that he offered them upon their firſt coming in, if they would promiſe to come to him upon notice given them,
+<pb facs="tcp:95148:4"/>they might go about their Buſineſs till then, which they would not accept at that time, (no doubt for this reaſon, that they might have it to ſay that they were in Priſon) but ſoon after their Stomachs fell, and they accepted his offer, and I believe were never by him reſtrained more, and to my cer<g ref="char:EOLhyphen"/>tain Knowledge they had their Liberty moſt of the time they beſpeak themſelves to be under ſuch hard uſage; but to make their Sufferings look great, and put a Cheat upon the World, they having ſome Pa<g ref="char:EOLhyphen"/>per to ſign, which they deſigned ſhould be publick, had a mind to ſign and date it from the Priſon, but were put to this hardſhip, the Sheriff not being at Home could not get into Priſon, but there being an Entry, common as well to the next Neighbour, there they ſigned and dated their Paper, as them<g ref="char:EOLhyphen"/>ſelves affirmed when taxed by the Sheriff with that deceitful Act. This may give a little reliſh of the Nature of their Sufferings, but I am afraid that thoſe that can thus Sport and play the Wanton with what they call Perſecution, would not prove very ſteddy if really under it.</p>
+            <p>Thus Reader, thou mayeſt obſerve by this, and what follows, how officiouſly Induſtrious theſe Ad<g ref="char:EOLhyphen"/>verſaries have been to defame and beſpatter not only Perſons but Societies, and what mean Artifices they have uſed to do it; but as I am perſwaded their Attempts will prove unſucceſsful to their end with the Judicious and <g ref="char:V">Ʋ</g>pright, ſo it will be tor<g ref="char:EOLhyphen"/>ment enough to them to find themſelves diſappointed therein, my end hath been to inform the Ignorant, and rectifie the Judgment of the Abuſed, and ſhall leave the ſueceſs to the Righteous Judge of all.</p>
+            <closer>
+               <signed>Samuel Jennings.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95148:4"/>
+            <head>THE State of the Caſe, &amp;c.</head>
+            <p>THAT there hath been a <hi>Breach</hi> made, by ſome called <hi>Quakers</hi> in <hi>Penſilva<g ref="char:EOLhyphen"/>nia,</hi> &amp;c. in <hi>America,</hi> is too well known, to the <hi>Grief</hi> of the <hi>Sincere,</hi> and <hi>Rejoicing</hi> of the <hi>Adverſaries</hi> of Truth of all ſorts, whom the publiſhing thereof ſeems de<g ref="char:EOLhyphen"/>ſigned to <hi>Gratifie.</hi> But what the <hi>Matter</hi> of the <hi>Difference</hi> was, or the <hi>Manner</hi> of its carrying on, is yet unknown to many, and therefore are uncapable to make a true <hi>Judgment</hi> thereof. For hitherto there hath been little publiſhed concerning it, but from <hi>G. K.</hi> and his Party: And if any through <hi>Inadvertency</hi> have ſo far Tranſgreſſed the <hi>Rule</hi> of <hi>Juſtice,</hi> as to have drawn a <hi>Judgment</hi> from <hi>that,</hi> I ſhall leave them to the <hi>Correction</hi> of their own <hi>Folly.</hi>
+            </p>
+            <p>Firſt then, as to the <hi>Matter,</hi> the <hi>Pretences</hi> are divers on <hi>G. K. &amp;c.</hi> part: As, <hi>that he,</hi> &amp;c. <hi>diſcovered divers Errors amongſt us, and ſuch, as wore too groſs to be Tolerated, and that even among the Preachers, who notwithſtanding were great Pretenders to Truth, and to the Imme<g ref="char:EOLhyphen"/>diate Teachings and Leadings of the Spirit of
+<pb n="2" facs="tcp:95148:5"/>Truth; yet very Ignorant and <g ref="char:V">Ʋ</g>nſound in ſome of the Chief Fundamental Principles of the Chri<g ref="char:EOLhyphen"/>ſtian Faith and Doctrine.</hi>
+            </p>
+            <p>Now, to paſs by his <hi>ſlight</hi> of the <hi>Spirit's Teaching,</hi> and his Reflection on the <hi>Pretences of ſome Preachers to it,</hi> I muſt take leave to tell him, that this <hi>Charge</hi> lies couched in bare <hi>Generals,</hi> (a Way common to all <hi>Sophiſters</hi> and <hi>falſe Accuſers</hi>) as he ſaith, <hi>Plea, &amp;c.</hi> p. 8. But may it not ſeem ſtrange, that he, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had then been amongſt us Twenty Eight Years; yea, moſt of that time a <hi>Preacher</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mongſt us, and <hi>Vindicator</hi> of us, as himſelf ſaith (and ſeems not a little to value himſelf upon it) ſhould not diſcover this till the But this he uſeth to cover by ſaying, His <hi>Diſ<g ref="char:EOLhyphen"/>ſatisfaction was only with ſome Baſtard Quaker in</hi> America; <hi>but he was in Dear <g ref="char:V">Ʋ</g>nity with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> faithful Friends in</hi> England, <hi>and elſewhere, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the World over.</hi> How <hi>Real</hi> he was in this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Deportment</hi> ſince his <hi>Arrival</hi> here, hath not little diſcovered; and <hi>Time</hi> that tr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Things and Perſons, (yea I believe, a ve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> little <hi>Time</hi>) will do it more fully.</p>
+            <p>But to come to Particulars, he aſſigne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this as the <hi>firſt Cauſe</hi> of the <hi>Separation</hi> betw<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them and us, that at a <hi>Monthly Meeting</hi> held <hi>Philadelphia</hi> the <hi>29th.</hi> of the <hi>11th.</hi> Month <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Tho. Fitzwater</hi> having in the Face of the Mer<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing, Accuſed <hi>G. K.</hi> for denying the <hi>ſufficie<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> of the <hi>Light,</hi> and promiſing to bring his <hi>Evi<g ref="char:EOLhyphen"/>dences</hi> the next <hi>Monthly Meeting;</hi> or then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he would acknowledge he had done am<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="3" facs="tcp:95148:5"/>(<hi>Reaſons, &amp;c.</hi> p. 8.) It ſeems, by what fol<g ref="char:EOLhyphen"/>lows, at the time appointed he did bring for <hi>Evidence</hi> to the <hi>Truth</hi> of his Charge <hi>W. Mean<g ref="char:EOLhyphen"/>ing,</hi> &amp; <hi>W. Stockdell,</hi> whoſe <hi>Evidence</hi> might thave paſt for a greater Matter; and the <hi>Objections</hi> againſt it ſeem very weak. For,</p>
+            <p>
+               <hi>Firſt,</hi> It's ſaid, <hi>he was prejudiced, who ſays it?</hi> G. K. &amp;c. <hi>againſt whom his Evidence was.</hi> This is an eaſie way, but common with him to evade a <hi>Charge.</hi> But <hi>ſecondly,</hi> He ſays, <hi>Di<g ref="char:EOLhyphen"/>vers were preſent at the place and time, where and when he alledged, he heard</hi> G. K. <hi>deny the ſuffici<g ref="char:EOLhyphen"/>ency of the Light,</hi> &amp;c. <hi>That cleared him, that they heard him both then, and at all occaſions, that he delivered his Mind on that Subject, al<g ref="char:EOLhyphen"/>ways bear his Teſtimony to the ſufficiency of the Light to Salvation.</hi> Now, how far all this will go to his clearing, is to be conſidered, his <hi>Evi<g ref="char:EOLhyphen"/>dence</hi> undertaking a difficulty, <hi>viz.</hi> to prove ſuch a <hi>Negative,</hi> for how could they ſay they heard him at all times when he delivered his Mind on that Subject? were they always with him?</p>
+            <p>But however it prevailed not ſo far with the <hi>Meeting,</hi> as to give forth a <hi>Judgment</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>T. F.</hi> at that time; but we are told, <hi>The Meeting Adjourned to the School-houſe on the Morrow.</hi> And after it was purged of ſome, that were not in the <hi>Profeſſion</hi> of <hi>Truth; the Friends of the Meeting</hi> (as he calls them) <hi>did give an <g ref="char:V">Ʋ</g>nanimcw Judgment concerning</hi> T. F. Some then (it ſeems) there were, that were not in the <hi>Profeſſion</hi> of <hi>Truth:</hi> (a thing not u<g ref="char:EOLhyphen"/>ſual
+<pb n="4" facs="tcp:95148:6"/>in ſolemn <hi>Monthly Meetings</hi>) and what moſt of them had more than a <hi>Prefeſſion</hi> that gave the <hi>Judgmen,</hi> is fit to be conſidered; being moſt of them ſuch, as afterwards went into the <hi>Separation</hi> with <hi>G. K.</hi> Upon the whole this is the ſubſtance; Though the <hi>Monthly Meeting</hi> orderly eſtabliſht, ſaw no Cauſe to give <hi>Judgment</hi> againſt <hi>T. F.</hi> yet this <hi>Adjourned Meeting,</hi> without any <hi>Heſitation,</hi> could do it <hi>
+                  <g ref="char:V">Ʋ</g>nanimouſly.</hi> And at a <hi>Morthly Meeting</hi> afterwards, when this thing came further to be Examined, <hi>T. F.</hi> did prove his <hi>Charge</hi> againſt <hi>G. K.</hi> by <hi>Four Credible Witneſſen</hi> viz. <hi>Thomas Pritchard, William Harwood, Wil<g ref="char:EOLhyphen"/>liam Southbee,</hi> and <hi>Benjamin Chambers.</hi> So that I think, all reaſonable People will ac<g ref="char:EOLhyphen"/>cord in this, that there was no cauſe to <hi>Con<g ref="char:EOLhyphen"/>demn</hi> him.</p>
+            <p>But ſee the <hi>miſchievous uſe</hi> he maketh of this, and his <hi>ſtrained Conſequences</hi> from it, <hi>Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that Party</hi> (as he calls them) <hi>that clearel</hi> T. F. <hi>told, that the Light is ſufficient without any thing elſe, excluding the Man Chriſt Jeſus.</hi> Now this is a manifeſt <hi>Injury</hi> done to the <hi>Meeting,</hi> who never told nor thought ſo: Nor was it the thing in Queſtion, whether the <hi>Light</hi> were <hi>ſufficient without ſomething elſe;</hi> but <hi>whe<g ref="char:EOLhyphen"/>ther</hi> G. K. <hi>had ſaid ſo, or not,</hi> which was pro<g ref="char:EOLhyphen"/>ved <hi>be had;</hi> as I have ſhewed before. And how <hi>Conſiſtent.</hi> G. K. is with himſelf to ſay, as he doth, (p. 8. <hi>Reaſon, &amp;c.</hi>) <hi>That he was clear<g ref="char:EOLhyphen"/>ed from the Charge of it by divers Witneſſes, who heard him both then, and at <hi>sll</hi> occaſions, that he
+<pb n="5" facs="tcp:95148:6"/>delivered his mind on that Subject, always bear his Teſtimony to the ſufficiency of the Light to Sal<g ref="char:EOLhyphen"/>vation;</hi> and yet to affirm, <hi>It is not ſufficient without ſomething elſe:</hi> And in his voluntary <hi>Declarution</hi> in the <hi>Yearly Meeting</hi> to ſay, <hi>I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>now no man upon the Face of the Earth, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rofeſſes a Belief of the ſufficiency of the Light with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to Salvation, more than I profeſs or hold; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave always profeſſed, ſince I came among Friends,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iz. <hi>That the Light within being God the Word, and the Spirit in every man, is ſufficient to reveal in every man all that is needful to his Eternal Sal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation.</hi> Now, if this be his ſincere <hi>Profeſſion</hi> without Reſerve or Diſguiſe) why then doth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e blame others for <hi>Profeſſing</hi> the ſame thing? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n which if there be any <hi>Errour,</hi> he hath told <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, <hi>He knows no man upon the Face of the Earth, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at believeth and profeſſeth it more than himſelf:</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere he ſeems to acknowledge the <hi>ſufficiency</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the <hi>Light,</hi> as much as thoſe he quarrels <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith. But he endeavours to ſuggeſt, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould ſednce the unwary into a Belief, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y our Acknowledgment thereof we deny and exclude the Man <hi>Chriſt Jeſus,</hi> and all the <hi>Bene<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> and <hi>Bleſſings</hi> that accrue to Mankind by him. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this be a <hi>Neceſſary Conſequence,</hi> it will fall as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell on him. But as I do not believe, he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er intended ſo (though I do not find in ei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of the <hi>places</hi> before-cited by rue, he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ards at all againſt it) ſo if he could have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erciſed the ſame <hi>Charity</hi> towards his <hi>Abuſed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ethren</hi> in <hi>America,</hi> he mihgt have ſpared <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Charge in that matter againſt them; ha<g ref="char:EOLhyphen"/>ving
+<pb n="6" facs="tcp:95148:7"/>been ſo often and ſolemnly told by us, That <hi>we did believe all, that's Recorded</hi> in <q>Sa<g ref="char:EOLhyphen"/>cred Writ concerning our Bleſſed Saviour: And not only believe it <hi>Hiſtorically;</hi> but al<g ref="char:EOLhyphen"/>ſo that we through a living <hi>Faith</hi> in him, who is the Author of all true <hi>Faith,</hi> are re<g ref="char:EOLhyphen"/>conciled to <hi>God</hi> through him, who is the only <hi>way</hi> to the <hi>Father:</hi> And that we do expect and believe, that as we are prefer<g ref="char:EOLhyphen"/>ved in the <hi>Path</hi> of <hi>Righteouſneſs,</hi> we ſhall al<g ref="char:EOLhyphen"/>ſo, through the Grace and Bounty of God have a <hi>part</hi> in that purchaſed <hi>Inheritance</hi> which our Bleſſed Lord <hi>Jeſus</hi> hath purcha<g ref="char:EOLhyphen"/>ſed for <hi>his</hi> with his precious Blood.</q> This and much more to the ſame Effect hath bee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> often told him; and its well, if he have no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſinned</hi> againſt <hi>Knowledge</hi> in this Matter.</p>
+            <p>But to ſtrengthen his <hi>Charge</hi> againſt us he ſaith (<hi>Reaſon, &amp;c.</hi> p. 9) <hi>That</hi> W. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tient Preacher</hi> (meaning <hi>William Stockdel</hi> did at the ſame Monthly Meeting (<hi>viz.</hi> t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>29th.</hi> of the <hi>11th.</hi> Month) at <hi>Philadelphia</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> new his former <hi>Accuſation</hi> againſt him, cha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing him openly in the Face of the <hi>Meeting That he Preached Two Chriſts, becauſe he Prea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed Faith in Chriſt within, —and in Chriſt w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> out us, &amp;c.</hi> I confeſs, though I was not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Meeting, I have great reaſon to be<g ref="char:EOLhyphen"/>lieve, that <hi>W. Stockdell</hi> did not ſo affirm them becauſe I obſerve in the <hi>Judgment</hi> afterward given forth againſt him by <hi>Friends;</hi> they ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>That</hi> W. S. <hi>denied the words ſo ſpoken:</hi> But the proceeded againſt him upon the <hi>Evidence</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:95148:7"/>
+               <hi>Two Perſons,</hi> that he ſaid, ſo, <hi>viz. W. B.</hi> and <hi>J. M.</hi> Now, had it been ſpoken in the Face of the <hi>Meeting,</hi> the <hi>Meeting</hi> muſt have heard it, and would not have needed the <hi>Evidences</hi> of the <hi>Two Perſons</hi> aforeſaid; but might have proceeded (and I believe, would) to have given <hi>Judgment</hi> againſt him on their own Knowledge. But if ever <hi>W.</hi> did ſay, <hi>That he apprehended, he preached Two Chriſts;</hi> I can<g ref="char:EOLhyphen"/>not eaſily believe, that he aſſigned that as the Ground of it, becauſe he preached <hi>Faith</hi> in <hi>Chriſt within,</hi> and <hi>without,</hi> as <hi>G. K.</hi> labours to inſinuate: which I have heard him often ſo<g ref="char:EOLhyphen"/>lemnly to <hi>deny.</hi> But this I have heard him to confeſs, That his ſpeaking ſo much, and ſo frequently of <hi>Chriſt without,</hi> and <hi>Chriſt with<g ref="char:EOLhyphen"/>in,</hi> might give ground to ſome to ſuſpect, he preached <hi>Two Chriſts,</hi> and that the preaching of a <hi>Chriſt without,</hi> and a <hi>Chriſt within,</hi> was to preach <hi>Two Chriſts.</hi> However the <hi>Two Wit<g ref="char:EOLhyphen"/>neſſes</hi> ſay it, and the <hi>Meeting</hi> accordingly gives <hi>Judgment</hi> againſt it: And tho' the Credibili<g ref="char:EOLhyphen"/>ty or Incredibility of the <hi>Witneſſes</hi> goes a great way with the Judicous, to ſatisfie them of the <hi>Truth</hi> of their <hi>Evidence,</hi> or the contrary; yet <hi>Judgment</hi> commonly goes according to <hi>Evidence.</hi> Whence it is, that ſometimes the <hi>Innocent</hi> are <hi>injured,</hi> yet the <hi>Judges</hi> clear of it. Now, as to theſe <hi>Two Witneſſes,</hi> they were much at the Devotion of <hi>G. K.</hi> and his crea<g ref="char:EOLhyphen"/>tures; to uſe as he pleaſed; one of them be<g ref="char:EOLhyphen"/>ing <hi>W. B.</hi> the <hi>Printer,</hi> whoſe Baſeneſs and Treachery to his <hi>Benefactors</hi> in <hi>Penſylvania,</hi>
+               <pb n="8" facs="tcp:95148:8"/>who at no inconſiderable Coſt encouraged <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Preſs</hi> there; and how much it was after war<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> uſed to <hi>Abuſe</hi> them, is too well known tob<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> covered. The other, <hi>viz. Joh.</hi> M'<hi>Comb,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Countreyman of <hi>G. K</hi>'s, though under Obli<g ref="char:EOLhyphen"/>gations ſtrong enough to <hi>W. S.</hi> to have bound any Man of Common Civility to him for his Kindneſs to, and Care of him in the Tim when he wanted i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; yet he muſt be the Inſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment of this <hi>miſchief</hi> and <hi>ſtrife</hi> by a ſly, un<g ref="char:EOLhyphen"/>manly, ungrateful way in a <hi>Viſit</hi> to <hi>W. S.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pump him by <hi>Queſtions</hi> concerning <hi>G. K.</hi> An he being more free, than diſcreet in his Co<g ref="char:EOLhyphen"/>verſe with him, away he goes to <hi>G. K.</hi> (t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way of a Common <hi>Tale-bearer</hi>) and aggn<g ref="char:EOLhyphen"/>vates, what he had (in a ſort) extorted from <hi>W. S.</hi> which ſo incenſed <hi>G. K.</hi> that he quick comes with theſe his <hi>Two Witneſſes,</hi> and libe<g ref="char:EOLhyphen"/>rally beſtwos his <hi>Anathema Maranatha</hi> upon <hi>W. S.</hi> without more ado; telling him, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>was an Ignorant Heathen, not worthy of any pl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the Aſſembly of Friends:</hi> Though I har<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heard by divers, that knew his coming for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (which was early) and his Labour and Ser<g ref="char:EOLhyphen"/>vice in and for the <hi>Truth,</hi> and his Succeſs there in for the gathering many to it, that there he was no whit behind (to ſay no more) the Perſon that ſo Treated him. Thus began the Difference betwixt theſe <hi>Two Perſons,</hi> and thus was it heightened: And although Friend did never juſtifie the words, which the <hi>T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Witneſſes</hi> affirmed were ſpoken by <hi>W. S.</hi> yet becauſe <hi>Judgment</hi> againſt <hi>W.</hi> was not giver
+<pb n="9" facs="tcp:95148:8"/>in his way and Time (although his own <hi>Tur<g ref="char:EOLhyphen"/>bulency</hi> was the great Obſtruction) he there<g ref="char:EOLhyphen"/>fore ſticks not to <hi>
+                  <g ref="char:V">Ʋ</g>nchriſtian</hi> many, whom he ſometime owned for his Brethren, charging them with denying the Lord that bought them; affirming, that they owned no other <hi>Chriſt</hi> but the <hi>Light within,</hi> excluding the Man <hi>Chriſt Jeſus</hi> from having any ſhare in the Work of our Salvation. And this, he would have the World believe, is the <hi>Ground</hi> of the <hi>Difference</hi> betwixt him and us; and all our oppoſition to him, and Teſtimonies againſt him is, be<g ref="char:EOLhyphen"/>cauſe God hath raiſed him up Zealouſly to Witneſs to thoſe <hi>great Truths,</hi> and <hi>fundamen<g ref="char:EOLhyphen"/>tal Doctrines</hi> of <hi>Chriſtianity</hi> denied by ſome, rejected by others, and meanly eſteemed by too many.</p>
+            <p>I Conſeſs the pretence is plauſible, and had it as much of <hi>Truth,</hi> as it hath of <hi>Falſhood</hi> in it, he were to be commended and encouraged. But what manner of Perſon muſt he be, if he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath <hi>falſely Accuſed</hi> the Innocent? Which, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> affirm on the behalf of my ſelf, and believe for all that are in Communion, with, and gene<g ref="char:EOLhyphen"/>rally owned by the People called <hi>Quakers</hi>) he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath done, and that knowingly too, concern<g ref="char:EOLhyphen"/>ing very many, that he hath heard often <hi>De<g ref="char:EOLhyphen"/>clare</hi> their <hi>Faith</hi> in the aforeſaid particulars, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd what elſe is neceſſary to be believed and owned by true Chriſtians; all which he is as much obliged to believe, as any body elſe is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believe him in the like kind.</p>
+            <pb n="10" facs="tcp:95148:9"/>
+            <p>And it's but a poor Shift for him to ſay (as he hath ſometimes done, when in <hi>America</hi> we endeavoured his ſatisfaction, and to re<g ref="char:EOLhyphen"/>move his <hi>Jealouſies</hi> concerning us in matters of <hi>Faith) I will not believe you; you walk in the Clouds, and have mental Reſervations: and no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> withſtanding your ſcriptural Confeſſion, you ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Senſe contrary to Scripture:</hi> At this Rat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> who can be ſecure in their Religious Repu<g ref="char:EOLhyphen"/>tation?</p>
+            <p>But I know the way he uſeth to take to Con<g ref="char:EOLhyphen"/>demn by wholeſale. <hi>There are,</hi> (ſays he <hi>amongſt you ſome, that I have detected of Err<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which you by Cloaking and Covering have m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your ſelves equally guilty with.</hi> If this be true I ſay ſo too: But I challenge him to nam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Perſon</hi> amongſt us, that any orderly <hi>Com<g ref="char:EOLhyphen"/>plaint</hi> hath been made againſt, and the matte proved, that hath been <hi>Cloaked,</hi> yea, the hath not been teſtified againſt, if they refuſe to <hi>Clear Truth</hi> in any thing, whereby a <hi>Scan<g ref="char:EOLhyphen"/>dal</hi> through their Means was brought upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> either by <hi>Principle</hi> or <hi>Practice.</hi> And at the laſt <hi>Yearly Meeting</hi> at <hi>Philadelphia</hi> a <hi>Minute</hi> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made, <hi>That great Care ſhould be taken, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any amongſt us had given any Juſt Cauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Offence, they ſhould be orderly dealt withal, the Truth might be Cleared, and the offence remove</hi> So that I think, all his Pretences of <hi>Friend Cloaking,</hi> &amp;c. in <hi>America,</hi> are taken awya, and will be no more a <hi>Cloak</hi> for him, to Cove his <hi>falſe Accuſations</hi> againſt them.</p>
+            <pb n="11" facs="tcp:95148:9"/>
+            <p>But becauſe I find him ſo bitterly to Envy againſt a <hi>Perſon,</hi> whom I am well aſſured he <hi>Abuſes</hi> and <hi>Miſrepreſents,</hi> I ſhall do him that Juſtice to ſpeak my Knowledge of him in a matter wherein he <hi>(G. K.)</hi> doth highly and frequently Charge him (<hi>Plea,</hi> &amp;c. p. 5.) <hi>Many are Witneſſes</hi> (ſaith he) <hi>how at the School-houſe-Meeting, as well as at theſe other Meetings aforeſaid,</hi> Tho. Lloyd <hi>Argued that Faith in Chriſt without us, as he died for our Sins,</hi> &amp;c. <hi>and roſe again, was not neceſſary to our Salvation.</hi> I Confeſs, I was not at that <hi>School-houſe-Meet<g ref="char:EOLhyphen"/>ing;</hi> but ſince he refers to other <hi>Meetings</hi> be<g ref="char:EOLhyphen"/>fore, wherein he ſuggeſts him to have Argued in like manner, I do remember, that at other times, and once eſpecially, I was pre<g ref="char:EOLhyphen"/>ſent at a Diſcourſe relating to that matter; but the Queſtion was not, <hi>Whether Faith in Chriſt without us, as he died for our Sins, and Roſe again, was not neceſſary to Our Salvation?</hi> But, <hi>Whether that Faith were Indiſpenſibly ne<g ref="char:EOLhyphen"/>ceſſary to all Mankind, and that none could be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aved without it, though they had not the Means, Opportunity or Capacity to know or receive it?</hi> Which will Include a great Part of Mankind, is namely all thoſe, that have not the Uſe of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Holy <hi>Scriptures,</hi> nor the Advantage of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earing it Preached to them; which will Af<g ref="char:EOLhyphen"/>fect many great <hi>Nations,</hi> as alſo all <hi>Infants, Deaf</hi> and <hi>Dumb Perſons,</hi> &amp;c. But <hi>G. K.</hi> ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing affirmed before, <hi>That this Faith is indi<g ref="char:EOLhyphen"/>penſibly neceſſary to all,</hi> occaſioned the Diſ<g ref="char:EOLhyphen"/>courſe, and carries with it a very <hi>harſh</hi> and
+<pb n="12" facs="tcp:95148:10"/>
+               <hi>uncharitable Judgment</hi> upon all that part of Man<g ref="char:EOLhyphen"/>kind before mentioned: Which I know not what can palliate, but the ſtrange Notion of the <hi>Revolution</hi> of <hi>Humane Souls.</hi> Which makes it more than Probable, that they ſhall have Opportunity, one time or other, before the End of the World of <hi>Hearing</hi> this <hi>Faith</hi> and <hi>Doctrine Preached,</hi> and may receive it; though now they die without it. But this <hi>Point</hi> muſt be tenderly touched now, becauſe few are ripe for it: Yet how far he hath Countenanced it, is known to many.</p>
+            <p>Further, he then ſaid to <hi>Tho. Lloyd,</hi> That <hi>if</hi> he <hi>were not of the ſame Faith, he could not o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him as his Chriſtian Brother, but yet he might be a Devout Heathen.</hi> Now ſee the <hi>Fallacy</hi> of this he would ſuggeſt, that <hi>T. Ll.</hi> made the <hi>Faith</hi> of <hi>Chriſt Crucified</hi> a very Indifferently thing Indefinitely; when as then, and many other times, I have heard him Affirm; <hi>That he di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> believe it to be <hi>Our</hi> Duty, who had the Advantag of having the holy Scriptures, and hearing t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Faeith Preached, to receive and believe it.</hi> I ſha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay no more on this matter, believing that none that know <hi>T. Ll.</hi> can Impartially Judge him Guilty of any thing ſo <hi>Antichriſtian.</hi>
+            </p>
+            <p>I have thus far, according as I premiſed given an Account of the <hi>Matter</hi> of the <hi>Differ<g ref="char:EOLhyphen"/>ence</hi> in <hi>America,</hi> as is pretended on his part; and I hope, I have alſo ſhown how little Real Ground there was for it: But my <hi>Rea<g ref="char:EOLhyphen"/>der</hi> muſt not Expect, that I ſhould follow him in all his <hi>vain</hi> and <hi>frivolous Charges,</hi> for that
+<pb n="13" facs="tcp:95148:10"/>were to ſwell a <hi>Volume,</hi> far beyond my Inten<g ref="char:EOLhyphen"/>tion or Time. It remains now, that I give an Account, what was then the <hi>Real Cauſe</hi> of this Unhappy <hi>Breach</hi> and <hi>Difference?</hi> Which I will endeavour to do Candidly, Cautiouſly and Truly.</p>
+            <p>The <hi>General Cauſe</hi> I take to be an <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>bounded Ambition</hi> in <hi>G. K.</hi> which had blown him up into ſuch <hi>Towering Thoughts</hi> of him<g ref="char:EOLhyphen"/>ſelf, as made him a very uneaſie Member of any <hi>Society,</hi> either <hi>Civil,</hi> or <hi>Religious;</hi> of which he hath given <hi>too</hi> pregnant <hi>Proofs,</hi> as I ſhall ſhew hereafter.</p>
+            <p>He firſt began and ſought a <hi>Qnarrel</hi> with the <hi>New-England-men,</hi> making it his practice in many places, where he came, to <hi>Challenge Diſputes</hi> with the <hi>Profeſſors</hi> and <hi>Prieſts;</hi> which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow little it redunded to <hi>Truth's</hi> Advantage, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> am a Witneſs, being then in <hi>N. England</hi> with him. And truly, the <hi>Spirit</hi> and <hi>Temper,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n which he managed it (being with great <hi>deat</hi> and <hi>Rage</hi>) was a certain <hi>Indication</hi> to me, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he deſigned <hi>Victory</hi> and <hi>Vain Glory</hi> rather <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an <hi>Edification.</hi> In which I was the more <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nfirmed by his <hi>Common Inſults,</hi> where he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ought he had any Advantage: For its a <hi>Maxime</hi> with me, "That who ever the <hi>Lord</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> emploies in any <hi>Service</hi> of his, he furniſhes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and abilitates with his own <hi>Spirit</hi> in the Diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> charge thereof. And how Contrary that is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a <hi>Spirit</hi> of <hi>Wrath</hi> and <hi>Bitterneſs,</hi> I leave to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> determined by ſuch, as know the <hi>Fruits</hi> of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ach. And this ſingle Obſervation hath been
+<pb n="14" facs="tcp:95148:11"/>enough to many, (and one would think, might be to all, were they but Indifferent) to ſatisfie them of the Nature of <hi>G. K</hi>'s <hi>Work,</hi> even the <hi>Spirit,</hi> in which its Acted. Doth he exceed others in his <hi>Love</hi> and <hi>Zeal</hi> for God? how comes he then, to have ſo little of the <hi>Love</hi> of <hi>God ſhed abroad in his heart?</hi> which teaches to <hi>Love Enemies,</hi> but he hath not ſpa<g ref="char:EOLhyphen"/>red vilely to <hi>Abuſe</hi> his <hi>Friends:</hi> Is he under more than a Common <hi>Conſtraint</hi> to preach and Exalt the <hi>ſufferings</hi> and <hi>Death,</hi> &amp;c. of our bleſſed Saviour? how comes he then to have ſo little of his <hi>Suffering Spirit</hi> and <hi>Image</hi> upon him? And will he ſay, he <hi>loveth God,</hi> while he <hi>hateth</hi> his <hi>Brother?</hi> Let him remember the <hi>Character</hi> due to ſuch an one.</p>
+            <p>But I Confeſs, I have made a little <hi>Digreſſi<g ref="char:EOLhyphen"/>on,</hi> by Expreſſing my own ſentiments; bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall now Return again to <hi>matter</hi> of <hi>Fact G. K.</hi> not having ſufficiently vented himſelf by the <hi>Controverſie</hi> he had with the <hi>New-Eng<g ref="char:EOLhyphen"/>landers,</hi> he turns the <hi>point</hi> of his <hi>Weapon</hi> upon thoſe he then owned and called his <hi>Friend</hi> And begins <hi>firſt</hi> about <hi>Church-Diſcipline;</hi> con<g ref="char:EOLhyphen"/>plaining, <hi>That there was too great a Laxn<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> therein:</hi> For the Amendment of which b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſents a <hi>Paper</hi> to the <hi>Meeting</hi> of <hi>Miniſtring Friends</hi> in order <hi>to have it publiſhed, and put <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to practice.</hi> But there being many things i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, which ſeemed very <hi>uncouth</hi> and <hi>ſtrange <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Friends,</hi> it was Referred to the further Con<g ref="char:EOLhyphen"/>ſideration of the <hi>Miniſtring Friends</hi> at the <hi>Yearly Meeting:</hi> and they not being ſatisfie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="15" facs="tcp:95148:11"/>therewith, propoſed to ſend it to the <hi>Yearly Meeting</hi> at <hi>London,</hi> to have their ſenſe upon it. Which he Refuſed, ſaying; <hi>He would ra<g ref="char:EOLhyphen"/>ther let it drop.</hi> But it not being complied with, as he Expected, we found him very Uneaſie; and it was obſerved from that time forward, he was more <hi>Captious;</hi> and made it his Buſineſs to pick up what he could, to <hi>Re<g ref="char:EOLhyphen"/>proach Friends</hi> withal. And having let in much <hi>Diſpleaſure</hi> and <hi>Contempt,</hi> he often expreſt it <hi>publickly,</hi> as well as <hi>privately, Impeaching</hi> their <hi>Teſtimony</hi> and <hi>way</hi> of <hi>Preaching.</hi> Which grieved many to find him ſo Regardleſs of the <hi>honour</hi> of <hi>Truth,</hi> as to utter things of that Nature in <hi>publick Auditories,</hi> ſo <hi>large</hi> and <hi>mixt,</hi> as ours were. This, together with his own, <hi>Tedious, Dry,</hi> and <hi>Inſipid Diſcourſes</hi> in our <hi>Meeting,</hi> did much leſſen him in the <hi>Eſteem</hi> of ſome, that before had given <hi>Evidence</hi> enough of more than Common <hi>Reſpect</hi> to him. Yet ſtill things were quietly carried on <hi>Friends</hi> part to him, till at laſt he charges a <hi>Meeting</hi> of <hi>Miniſtring Friends</hi> with being <hi>come together to Cloak Here<g ref="char:EOLhyphen"/>ſies and Deceipt; and that there were more Damnable Hereſies and Doctrines of Devils among the Quakers than among any Profeſſion of the Pro<g ref="char:EOLhyphen"/>teſtants:</hi> This was taken from his own Mouth at that <hi>Meeting,</hi> and a <hi>Minute</hi> made of it; and was then read to him, and not denied by him: Though ſince he endeavours to <hi>Evade</hi> it. This <hi>Charge</hi> was too <hi>Notorious</hi> and <hi>groſs</hi> to paſs by without Notice: but becauſe I find an Ac<g ref="char:EOLhyphen"/>count given from our <hi>Meeting</hi> of <hi>Miniſtring
+<pb n="16" facs="tcp:95148:12"/>Friends</hi> held at <hi>Burlington</hi> the <hi>20th.</hi> of the <hi>4th. Month</hi> 1692. and another held at <hi>Philadelphis</hi> the <hi>24th.</hi> of the <hi>4th. Month</hi> 1693. to the <hi>2d. days Morning-Meeting</hi> in <hi>London,</hi> of the manner of their Procedure with him, <hi>&amp;c.</hi> I have thought fit to Inſert that here, being done with that <hi>Clearneſs</hi> and <hi>Truth,</hi> and being the <hi>Act</hi> of ſuch a <hi>Meeting,</hi> as cannot in Charity be ſuſpected to be Partial or unjuſt there<g ref="char:EOLhyphen"/>in.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <pb n="17" facs="tcp:95148:12"/>
+                        <head>The Preſent Caſe truly Stated, in reference to the Teſtimony given forth againſt <hi>George Keith,</hi> by the Publick Friends, the <hi>20th</hi> of the <hi>4th.</hi> Month. <hi>1692.</hi>
+                        </head>
+                        <p>OUR Late Friend <hi>George Keith</hi> having before and at the Meeting of the Mini<g ref="char:EOLhyphen"/>ſtring Friends, held at <hi>Burlington</hi> in the laſt firſt Month, there openly in a wrathful and bitter Spirit reviled and abuſed the ſaid Meet<g ref="char:EOLhyphen"/>ing, by ſaying, That they were met toge<g ref="char:EOLhyphen"/>ther to Cloak Hereſie and Deceit; and that there were more damnable Hereſies and Doctrine of Devils amongſt the <hi>Quakers</hi> than among any Profeſſion of Proteſtants. And though theſe Unbrother-like and Unchriſti<g ref="char:EOLhyphen"/>an Expreſſions were uttered by him in their hearing, that they needed no further Evi<g ref="char:EOLhyphen"/>dence or proof of the ſame, and thereupon might have proceeded to have diſowned him then as a Miniſtring Brother, he continuing his Accuſation with as much vehmency as Rage; yet notwithſtanding, the ſaid Meeting ha<g ref="char:EOLhyphen"/>ving regard to him, knowing the brittleneſs of his Diſpoſition, omitted any further Notice than an Entry of his reproachful Speeches, giving him to underſtand that we expected he ſhould condemn the ſame, and accordingly
+<pb n="18" facs="tcp:95148:13"/>appointed two of his Brethren and Members of the ſame Meeting to admoniſh him, and lay before him his rude Deportment, and his unſavoury Words, and to return his Anſwer to the next meeting of that kind, which followed in courſe three Monchs after at <hi>Philadelphia:</hi> The ſaid appointed Friends <hi>(viz.) Samuel Jennings</hi> and <hi>Griffith Owen,</hi> accordingly viſited him the ſaid <hi>George Keith,</hi> and reminded him of the abuſes given by him to the Meeting, and repeated his Words unto him; upon which he juſtified the ſame, and ſpeaking the ſaid words over he declared the ſame again, <hi>viz.</hi> That they were met together to Cloak Hereſies and De<g ref="char:EOLhyphen"/>ceit, and that there were more damnable Hereſies and Doctrines of Devils amongſt them than amongſt any profeſſion of Proteſtants, and that he trampled their Judgments under his feet as Dirt; and with other vile Expreſſions he treated the two Friends.</p>
+                        <p>All which being reported to the ſaid Meet<g ref="char:EOLhyphen"/>ing enſuing, and he declining his uſual appear<g ref="char:EOLhyphen"/>ance (tho at home) and having made an open breach by ſetting up Seperate Meetings in <hi>Phi<g ref="char:EOLhyphen"/>ladelphia;</hi> and having Printed out of the Unity of Friends the Cauſe and Reaſons of his Sepa<g ref="char:EOLhyphen"/>ration, wherein he had injuriouſly miſrepre<g ref="char:EOLhyphen"/>ſented the Meetings, and Calumnicated ſeveral Perſons with whom he had not dealt in the leaſt in any Church-way: And this he did nine or zen Weeks before this <hi>4th.</hi> Month Meeting; however Friends being come together, and con<g ref="char:EOLhyphen"/>ſidering
+<pb n="19" facs="tcp:95148:13"/>his violent Temper, and the miſchie<g ref="char:EOLhyphen"/>vous Schiſm and Rent that he had made, and how he was like to Introduce further Exer<g ref="char:EOLhyphen"/>ciſes to Friends in theſe Parts, they were generally inclined to wave any further proce<g ref="char:EOLhyphen"/>dure againſt him at that time, and to adjourn their Meeting for a Forthnight longer, and in the mean time appointed ſome-Friends to viſit him, and to admoniſh him a ſecond time of his Evil Speeches, and to lay before him the evil of the Separation eſtabliſhed by him to the great blemiſh of Truth: Which was done by our ſaid Friends the ſame Evening, and Notice given to him of the time to which the Meet<g ref="char:EOLhyphen"/>ing was Adjourned: but he giving no ſatis<g ref="char:EOLhyphen"/>faction, but perſiſting in his railings, and vin<g ref="char:EOLhyphen"/>dicating the Seperation, regarded not the time, and the Friends meeting together; and weigh<g ref="char:EOLhyphen"/>ing his further Anſwers, and obſerving his fierce and frequent Endeavours to diſquiet and divide many of the Neighbouring Meetings; did in a Chriſtian care and duty Conſider of a Teſtimony to go forth againſt him herein; but delayed to give any out till two days after: being informed he then was likely to be at home. And the publick Friends coming then together, they ſent two of their Members, to wit, <hi>William Biles</hi> and <hi>Walter Fawcet,</hi> to en<g ref="char:EOLhyphen"/>quire at his houſe of his return, but he being abſent they gave forth the Teſtimony with this Caution, That it ſhould not be publiſh<g ref="char:EOLhyphen"/>ed till <hi>George Keith</hi> had an Opportunity of hearing it read unto him, and to ſuch others as he approved of; And that after the read<g ref="char:EOLhyphen"/>ing
+<pb n="20" facs="tcp:95148:14"/>of it to him, a Copy thereof ſhould be prepared for him with what Expedition might be: All which was offered unto him, which he refuſed till the Monthly Meeting in <hi>Phila<g ref="char:EOLhyphen"/>delphia,</hi> which fell out four or five days after, and there by his Conſent it was read unto him, and a Copy given the day following. The in<g ref="char:EOLhyphen"/>tent of the Friends in delaying the publication of it, until he had Opportunity of hearing it read privately, was, that the ſpreading there<g ref="char:EOLhyphen"/>of might be prevented in Caſe he ſhould then Condemn the ſaid Speeches and decline the Separate Meeting; whereof timely Notice was ſent to him: but he upon the reading of the Teſtimony in the Meeting, inſtead of Expreſſing the leaſt trouble or relenting for the ſame, did within a few days after out of the method and way of Friends, put forth Clandeſtinely in print a furious Condemnation againſt the Friends concerned againſt him, which he ſtyled by the Title of a Plea: Where<g ref="char:EOLhyphen"/>in he had like a moſt diſingenious Adverſary, upon groundleſs reports, laboured to reproach ſeveral of them, and diſperſed the ſame to<g ref="char:EOLhyphen"/>wards <hi>London,</hi> and other parts, ſome Weeks e're the Perſons againſt whom they were Printed had a ſight of the ſame. And yet <hi>George Keith,</hi> would poſſeſs his hearers and others by his Pamphlets, that he had no Goſ<g ref="char:EOLhyphen"/>pel Order from the Meeting, when the whole procedure is according to the order of Truth eſtabliſhed among Friends: And he himſelf cannot but be Conſcious to himſelf herein,
+<pb n="21" facs="tcp:95148:14"/>that neither Goſpel nor Order regulates him in Conference with us, nor in his giving forth his Papers againſt us.</p>
+                        <closer>
+                           <dateline>
+                              <hi>Signed on the behalf and by Order of our Meeting of Miniſtring Friends, held in</hi> Burlington, <date>
+                                 <hi>the</hi> 6th <hi>of the</hi> 7th <hi>Month.</hi> 1692.</date>
+                           </dateline>
+                           <signed>Sam. Jennings.</signed>
+                        </closer>
+                     </div>
+                  </body>
+                  <back>
+                     <div type="postscript">
+                        <head>POSTSCRIPT.</head>
+                        <p>AND After <hi>George Keith</hi> and his Adhe<g ref="char:EOLhyphen"/>rents, by his ſaid Plea appealed to God the righteous Judge of all Men, and next to all faithful Friends and Brethren here in <hi>America,</hi> and in Old <hi>England, Scotland,</hi> and <hi>Ireland,</hi> or elſewhere, to Judge between them and us: Yet in a ſhort time afterwards they got another Paper Printed, which they ſtiled An Appeal from the 28 Judges, to the Spirit of True Judgment in all faithful Friends called <hi>Quakers,</hi> that meet at this Yearly Meeting at <hi>Burlington</hi> the <hi>7th</hi> Month, 1692. But inſtead of giving us any friendly Notice of this Ap<g ref="char:EOLhyphen"/>peal, they ſpread and ſet the ſame upon Poſts about this Town of <hi>Philadelphia</hi> and elſe where, Nine days at leaſt before the ſaid Yearly Meeting. And when the Meeting time came <hi>G. K.</hi> and his Company met apart in the Court<g ref="char:EOLhyphen"/>houſe,
+<pb n="22" facs="tcp:95148:15"/>from whence he ſent to Friends a Paper in the nature of a Challenge, requiring a hearing of his ſaid laſt mentioned Appeal, which Challenge was Introduced by one of his followers, who climbing up in our Meet<g ref="char:EOLhyphen"/>ing houſe Window (tho the door was open) ſtood in the ſaid Window with his Hat on, and read part of it while our ancient Friend <hi>Tho, Jauney</hi> was at Prayer. And the publick Friends from the Mornings Meeting had ſent to <hi>G. K.</hi> by Word and Writing; That in Caſe he had any thing to propoſe to that Yearly Meeting, either as a Friend or Oppoſer, he ſhould have a ſuitable hearing, and Anſwer, provided he would ſtay till the day appointed for buſineſs, which was the laſt day of the Meeting (Friends not being willing to invert the good Orde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> of Truth, in Imploying thoſe days for buſi<g ref="char:EOLhyphen"/>neſs which were Eſtabliſhed for Worſhip.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Nevertheleſs <hi>G. K.</hi> ſlighting Friends Propo<g ref="char:EOLhyphen"/>ſals, calling them Evaſions, and Jeſuitical Tricks, did give publick Notice for the Peo<g ref="char:EOLhyphen"/>ple to meet him at our Meeting-houſe after Meeting was over the next day, being the third day of the Week; At which time they accordingly met, whereupon ſome Friends were ſent by the Miniſtring Friends to ac<g ref="char:EOLhyphen"/>quaint <hi>G. K.</hi> and the People then met with him, how that Friends were ready and willing to give him the Opportunity of a hearing next day following, which was the day ap<g ref="char:EOLhyphen"/>pointed for buſineſs, according to Friends former propoſals in that behalf: But inſtead
+<pb n="23" facs="tcp:95148:15"/>of admitting thoſe ſo ſent to deliver their Meſſage, he and divers of his Followers cried out againſt them, ſaying, They had nothing to do there, refuſing to hear them; and inſi<g ref="char:EOLhyphen"/>nuating to the Auditory, that the ſaid Friends came to diſturb their Meeting; and ſo they immediately withdrew to the Court-houſe: And there the ſaid <hi>G. K.</hi> and the reſt con<g ref="char:EOLhyphen"/>cerned in the ſaid Appeal having ſet up thoſe (who made little or no Profeſſion of Truth, for their Judges) whom they called Impartial Men by reaſon of their not ſigning thereto<g ref="char:EOLhyphen"/>fore either with or againſt the ſaid Appealors, (though joined with them in Worſhip at their ſaid ſeparate Meeting) and ſo drew up a ſort of Judgment againſt Friends, and ſign<g ref="char:EOLhyphen"/>ed it that very Night, which is alſo put in Print, as from their Yearly Meeting ſigned by <hi>Robert Turner, Griffith Jones,</hi> and others: And though the ſame was compleated accord<g ref="char:EOLhyphen"/>ing to the Mind and Direction of our Oppoſer <hi>G. K.</hi> yet it was ſo far from allaying his rage and violence againſt Friends, that he ſtill per<g ref="char:EOLhyphen"/>ſiſted in his abuſive Carriage, calling Friends in our Religious Meetings, Hypocrites, Snakes, Vipers, Blood-thirſty Hounds, Im<g ref="char:EOLhyphen"/>pudent Raſcals, and ſuch like, bidding them cut him in Collops, fry him, and eat him; and ſaying, His Back bad long itched to be whipt. And at the ſame Juncture he ſaid, That he was like our Lord and Saviour Jeſus Chriſt, comparing himſelf to a Dove, a Lamb,
+<pb n="24" facs="tcp:95148:16"/>while he thus appeared in a great Tranſport o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Heat and Paſſion.</p>
+                        <p>It would be tedious to trace him in one half o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> his Raileries, invective Preachings, and loath<g ref="char:EOLhyphen"/>ſome Printings againſt us, ſince this diſorderly Yearly Meeting of his, and Separation from us; his Auditony being generally made up, as to the bulk thereof, out of the diſaffected, the Apoſtates, and the more Prophane of all Perſwaſions among us, whom he gratified with telling them of a Preaching Quaker in <hi>Mary land,</hi> who got another Man's Wife with Child, which they (meaning Friends) could not diſcern by the <hi>Light within;</hi> and with another being carried drunk out of a Tap<g ref="char:EOLhyphen"/>houſe, with ſuch unſeemly paſſages for a Man of his Rank and Pretences: And tho' we pub<g ref="char:EOLhyphen"/>liſhed not a Line in Print to detect him juſtly of his notorious Falſhoods againſt us, (hoping th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> have ſomewhat thereby kept this un<g ref="char:EOLhyphen"/>happy difference from being made more pub<g ref="char:EOLhyphen"/>lick by us, as much as in us lay, and as long a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> we could) yet this uneaſie and farious Man, upon our Return (as uſually) to one Meet<g ref="char:EOLhyphen"/>ing on the Firſt Days, during the ſeverity of the Winter, at our Meeting-houſe on th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Front of <hi>Delaware:</hi> He ſets on afreſh, not on<g ref="char:EOLhyphen"/>ly to diſquiet Friends here, but very rudely and openly oppoſed our publick and ſervice<g ref="char:EOLhyphen"/>able. Travailing Friend, <hi>Tho. Everndon,</hi> and <hi>Richard Hoskins,</hi> who bearing their Teſtimo<g ref="char:EOLhyphen"/>nies in the dread of the Lord, and in Humili<g ref="char:EOLhyphen"/>ty
+<pb n="25" facs="tcp:95148:16"/>of Spirit among us, he called out upon them ſeveral times, <hi>Hypocrites, Hypocrites;</hi> and the former of them (tho' two days be<g ref="char:EOLhyphen"/>fore he ſaid he had good Unity with him) he call'd him then before many Hundreds, <hi>The greateſt Hypocrite that ever ſtood upon two Legs.</hi> And while for ſome Weeks we Aſſembled to<g ref="char:EOLhyphen"/>gether, in ſome of the laſt Meetings <hi>George Keith</hi> left Friends Gallery, and betook him<g ref="char:EOLhyphen"/>ſelf to the Stairs near one of the Doors on the oppoſite ſide; and being ſoon weary of that Seat, as appearing there too much like what he was, <hi>viz.</hi> a Common Oppoſer, his Follow<g ref="char:EOLhyphen"/>ers on a ſudden ſet up on a Seventh Day a new Gallery for him over againſt the Publick Friends; which two of the Truſtees hearing of, went that Evening in a peaceable manner, calling to them <hi>Robert Turner,</hi> who was a Truſtee alſo, to remove the ſame, being ſet up there as a Seat of Contention, and without the leaſt Conſent of the Meeting: And upon their going in, <hi>Robert Turner,</hi> with more heat than true Zeal, and, as he ſaid afterwards, with a diſſatisfaction to Galleries, ſtriking on<g ref="char:EOLhyphen"/>ly a tranſient ſtroke at the new one, he fell ſeverely upon Friends Gallery, and with a ſui<g ref="char:EOLhyphen"/>table Aſſiſtance, cut and tore down in an im<g ref="char:EOLhyphen"/>petuous manner the Stairs, Seat, Floor, Poſts, and Rails thereof, levelling it with the Floor, <hi>G. K.</hi> being preſent, langht, and expreſt his fatisfaction therewith; but he loſing ground by his extream Paſſion, and ill Conduct in thoſe Conteſts, after one Meeting more he
+<pb n="26" facs="tcp:95148:17"/>and Followers leave Friends Meeting a<g ref="char:EOLhyphen"/>gain, and retired to their ſeparate Meeting place; where, as we are credibly infor<g ref="char:EOLhyphen"/>med, a great part of their Meeting-time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> ſpent by him in his Perſonal Vindication, and in rendring Friends here as odious and con<g ref="char:EOLhyphen"/>temptible as the Malice and Lies of the wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> of our Adverſaries would have us to be But his Race being even run with us, and his further Excurſions being almoſt ſtopt, and not ſo much Credit being given to his repeat<g ref="char:EOLhyphen"/>ed Accuſations, and his great Attempts of la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> to the further expoſing and dividing Friend here, proving very unſucceſsful to his Expect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>tion, as by the Account of the Late Conſe<g ref="char:EOLhyphen"/>rence impoſed by him upon us in a large pro<g ref="char:EOLhyphen"/>miſcuous Auditory on the Seventh Inſtan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> may further appear; and withal the ſeve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Eſtabliſht Meetings in theſe three, and Neigh<g ref="char:EOLhyphen"/>bouring Provinces having diſowned him, he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> now hurrying all on a ſtart for Old <hi>England</hi> being very Jealous ſome of thoſe whom he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> bitterly Oppoſes ſhould haſten there befor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> him, though none of us are ſo much upon th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Spur, as being ſatisfied that whereſoever <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> goes, or whereſoever his Books reach among Faithful Friends, that he will be diſcovered to be a degenerated Man from the Spirit and Charity of a ſincere Chriſtian. We wiſh th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> the Lord may be propitious to him in h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Voyage, and give him a ſight of his great A<g ref="char:EOLhyphen"/>poſtacy, and let him underſtand that notwith<g ref="char:EOLhyphen"/>ſtanding the vain pretence of his Errand, he is
+<pb n="27" facs="tcp:95148:17"/>perſecuting the true Chriſt of God in his Fol<g ref="char:EOLhyphen"/>lowers, he ſeems ſo Zealouſly to profeſs. The Lord God of Mercy forgive him all his ſevere Treatment of us, and his hard Speeches againſt us, granting him Repentance unto Life, if it be his Gracious Will. This is the deſire of his Abuſed Friends.</p>
+                        <closer>
+                           <dateline>
+                              <hi>Signed on the behalf, and by Order of the Meet<g ref="char:EOLhyphen"/>ing of Miniſtring Friends,</hi> Philadelphia <date>
+                                 <hi>the 24th. of the 4th. Month,</hi> 1693</date>
+                           </dateline>
+                           <signed>Sam. Jennings.</signed>
+                        </closer>
+                     </div>
+                  </back>
+               </floatingText>
+            </q>
+            <pb n="28" facs="tcp:95148:18"/>
+            <p>NOW by the foregoing Account of the <hi>Meeting of Miniſtring Friends</hi> held in <hi>Burling<g ref="char:EOLhyphen"/>ton</hi> the <hi>6th.</hi> of the <hi>7th.</hi> Month 1692. it largely appears how Friends dealt &amp; bore with <hi>G. K.</hi> before any publick <hi>Teſtimony</hi> was given forth againſt him: Which ſaid <hi>Account</hi> was Read in the Yearly Meeting at <hi>London,</hi> for this preſent Year 1694. which might reaſonably have been expected, would have ſtopt <hi>G. K.</hi> from perſiſting in that often repeated <hi>Falſhood, Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he was Condemned by the Twenty Eight Miniſtring Friends in</hi> Philadelphia <hi>without all Conviction <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Trial:</hi> But becauſe I mett with it again in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> late Book of his, called, <hi>The Cauſleſs Ground <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Surmiſes, &amp;c.</hi> (p. 6.) I cannot but ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſome Remarks upon it.</p>
+            <p>The ſaid <hi>Judgment</hi> he ſo much complains <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (and is ſo heavy upon him, though he ſome times ſeems to ſlight it) doth chiefly conſiſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Three Heads,</hi> judging, 1. His <hi>Separati<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 2. Late <hi>Printing:</hi> And, 3. <hi>Reviling L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> guage:</hi> Which Things were all too obvious <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be denied. For his <hi>Sepaeration</hi> and <hi>Printing</hi> thoſe were expoſed to the view of the Worl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And for his <hi>Reviling Largu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge,</hi> you hear wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was ſpoken in the open Meeting, <hi>viz. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they were met together to cloak Hereſie and De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ceit; and that there were more Damnable H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſies and Doctrines of Devils amongſt the</hi> Quaker <hi>than amongſt any Profeſſion of Proteſtants.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that theſe things conſidered, they might ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> given <hi>Judgment</hi> againſt him then; but th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> forbore it, and appointed two <hi>Friends</hi> from
+<pb n="29" facs="tcp:95148:18"/>the ſaid <hi>Meeting</hi> to viſit him, and lay his <hi>Evil</hi> before him: And, if he would not be reclaimed, to let him know, that the ſaid <hi>Meeting</hi> did expect <hi>Satis faction</hi> from him; and deſired him to be preſent at the next <hi>Meeting</hi> of that kind, or ſend his <hi>Anſwer.</hi> What <hi>Anſwer</hi> he gave to the two <hi>Friends,</hi> I refer to the aforeſaid <hi>Account:</hi> However to the <hi>Meeting</hi> he came not. They Adjourn for a Fortnight, Viſit him afreſh by two o<g ref="char:EOLhyphen"/>ther <hi>Friends,</hi> appointed by the ſaid Meeting; who alſo give him notice of the <hi>Time,</hi> to which the <hi>Meeting</hi> was Adjourned: which he regarded ſo little, as to take occaſion to be out of Twon at the Time; which ſhewed he continued his <hi>Slight</hi> to the ſaid <hi>Meeting,</hi> who before had ſaid, <hi>He trampled their Judgment a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dirt under his Feet.</hi>
+            </p>
+            <p>Now Judge, <hi>Reader,</hi> what <hi>cauſe</hi> this Man had to <hi>complain;</hi> and what <hi>confidence</hi> or <hi>con<g ref="char:EOLhyphen"/>ſcience</hi> he muſt have to proclaim to the World again and again, <hi>That he was Condemned without all Conviction or Trial? The Meeting</hi> did all that was proper for them to do; ſought him, and acquainted him from time to time, what they expected from him, or what he might expect from them. He had liberty, if he plea<g ref="char:EOLhyphen"/>ſed, to have made any <hi>Defence;</hi> but how un<g ref="char:EOLhyphen"/>reaſonable is it for him, <hi>Contemptuouſly</hi> to ab<g ref="char:EOLhyphen"/>ſent himſelf from thoſe <hi>Meetings</hi> at ſuch times, and ſo put it out of the power of the <hi>Meeting</hi> to ſpeak with him; and then Complain, <hi>He was not heard or tried, before Condemned.</hi> And if
+<pb n="30" facs="tcp:95148:19"/>he by Tryal aludes to Tryals, by courſe of Law he may find it very Practicable, to give Judgment by Default againſt Perſons refu<g ref="char:EOLhyphen"/>ſing or neglecting to be preſent. But if to give <hi>Judgment</hi> in the abſence of a Perſon be ſo <hi>Criminal,</hi> how will he excuſe his own <hi>Party,</hi> who at the <hi>School-houſe-meeting</hi> gave <hi>Judgment</hi> againſt <hi>W. Stockdell</hi> in his abſence (he refu<g ref="char:EOLhyphen"/>ſing, as they ſay, to come to the <hi>Meeting</hi>) <hi>Rea<g ref="char:EOLhyphen"/>ſon</hi> &amp;c. <hi>p.</hi> 9. but more inexcuſable if the act of That they falſly call the Yearly-meeting, at <hi>Burlington</hi> on that account.</p>
+            <p>As to the matter of the <hi>Separation,</hi> which he vainly endeavours to throw off himſelf, upon <hi>Friends</hi> in <hi>America,</hi> I ſhall not meddle with it; the <hi>Yearly Meeting</hi> at <hi>London</hi> having determined it, and it being ſo clearly demon<g ref="char:EOLhyphen"/>ſtrated by another hand, (<hi>viz.</hi> T. E.) to lye at the door of <hi>G. K.</hi> &amp;c. And though he aſſigneth divers things as <hi>Reaſons</hi> and <hi>Cauſes</hi> of it, more particularly his <hi>Offence</hi> againſt <hi>T. F.</hi> and <hi>W. S.</hi> and <hi>Friends</hi> for not dealing with them according to his mind; yet whoever ſhall weigh divers <hi>Expreſſions</hi> that he occaſionally dropped to divers <hi>Perſons,</hi> will find that he was much alienated in his mind to <hi>Friends,</hi> and had ſo little a ſhare in that bleſſed <hi>Love</hi> and <hi>Life</hi> of <hi>Jeſus,</hi> by which <hi>Friends</hi> are made and kept one, that he rather waited for, and ſought <hi>occaſions</hi> againſt us, than to heal or reſtore where any ſlipped. He told <hi>John Wilsford,</hi> before the <hi>Separation</hi> a conſiderable time, <hi>That</hi> Friends <hi>were not the People; but that there muſt
+<pb n="31" facs="tcp:95148:19"/>come another People:</hi> And he told <hi>Caleb Puſie,</hi> and others, <hi>That there were not Six Friends in</hi> America, <hi>nor in</hi> England, <hi>No, nor in the whole World, that Preached Chriſt aright.</hi> He told another, <hi>That he had that</hi> to Preach, <hi>that was never yet Preached by any</hi> Quaker; <hi>That he had much leſs now againſt Water-baptiſm than formerly And that he ſaw now, that</hi> Hicks <hi>and</hi> Fald<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>had more reaſon to write as they did, concerning the</hi> Quakers, <hi>than he then thought they had: And that, if he ſhould appear in Oppo<g ref="char:EOLhyphen"/>ſition to</hi> Friends, <hi>he could do more hurt, than all that yet had appeared againſt them.</hi> All theſe things will be proved againſt Him, if he deny them; and much more of a like Tendency, Which ſhews how little his heart was with us, whilſt he Hypocritically ſeemed to be one of us. And its plain from hence, he had enter<g ref="char:EOLhyphen"/>tained <hi>Thoughts</hi> (if not fully deſigned) to <hi>break off</hi> from us, and do what <hi>miſchief</hi> he could againſt us; which I think none can queſtion, that reads his malicious <hi>Pamphlets</hi> againſt us, <hi>Printed</hi> ſince he made that <hi>Breach</hi> in <hi>America,</hi> or that hath obſerved his <hi>Carriage</hi> here, ſince his <hi>Arrival.</hi>
+            </p>
+            <p>I am now come to my laſt Part, <hi>viz. A juſt Vindication of my ſelf from the Reproaches and Abuſes caſt upon me by</hi> Geo. Keith, <hi>&amp;c.</hi> in which if I have been too dilatory, is hath been becauſe I preferred the <hi>Reputation</hi> and <hi>Peace</hi> of the <hi>Church</hi> of <hi>Chriſt</hi> above my own: for which I ſhall make no other <hi>Apology,</hi> than
+<pb n="32" facs="tcp:95148:20"/>in the <hi>Apoſtle</hi>'s Words, <hi>Forgive me that wrong.</hi> For upon our <hi>Arrival</hi> here (though <hi>G. K.</hi> in the very firſt <hi>Meeting</hi> he came to, gave Evi<g ref="char:EOLhyphen"/>dence enough of his <hi>Spirit</hi> and <hi>Temper</hi>) yet I found a deſire and <hi>Travel</hi> in <hi>Friends,</hi> if poſſi<g ref="char:EOLhyphen"/>ble, to reclaim and reſtore him: In which, if it could have been, I ſhould have had my ſhare of ſatisfaction with others: Which, rather than I would do any thing to obſtruct, by kindling freſh <hi>Coals,</hi> I choſe rather to <hi>ſuffer</hi> in <hi>ſilence.</hi> But ſince he hath now left ſo little room to hope for his <hi>Repentance</hi> and <hi>Return</hi> having dealt ſo treacherouſly with the <hi>Yearly Meeting</hi> by appearing in <hi>Print,</hi> as he ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> done, againſt them, inſtead of ſubmitting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their <hi>Advice</hi> and <hi>Judgment.</hi> And expecti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> my Time not to be long in this <hi>Nation,</hi> I ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no reaſon longer to forbear the doing th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Common Right</hi> due to my ſelf. How much <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have been Calumniated by <hi>Tongue</hi> and <hi>Pr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> by <hi>Geo. Keith</hi> and his <hi>Party,</hi> is known to many in this and other <hi>Nations:</hi> But how the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhrunk from the <hi>Charge,</hi> when called upon i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the laſt <hi>Yearly Meeting</hi> in <hi>London,</hi> to make <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good, is alſo very well known; and none <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them had Courage enough to own or ſtand by that <hi>Malicious, Sca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dalous Libel,</hi> called, <hi>N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> England Spirit of Perſecution,</hi> &amp;c. only <hi>G. K.</hi> did ſay, <hi>That part that concerned his on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Trial, was his:</hi> nor would any of the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> acknowledge or declare, who was the <hi>Author,</hi> or <hi>Authors</hi> of the reſt of it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> giving this for one Reaſon of their Conceal<g ref="char:EOLhyphen"/>ment.
+<pb n="33" facs="tcp:95148:20"/>
+               <hi>That if the Author, or Authors were known to me, I might take the Advantage of Law againſt them.</hi> I Confeſs, this was a ſafe Conſideration; but how <hi>Manly</hi> or <hi>Honeſt</hi> not to ſay <hi>Chriſtian,</hi> I leave to be judged by all. Will they, to <hi>Defame</hi> a <hi>Perſon,</hi> do that which ſhall ſubject them to the <hi>Correction</hi> of the <hi>Law,</hi> yet do it Clandeſtinely to avoid the <hi>Stroke</hi> of <hi>Juſtice,</hi> and plead <hi>Conſcience</hi> and <hi>Chriſtian Con<g ref="char:EOLhyphen"/>ſtraint</hi> for it too? Surely, This is to ſet <hi>Chriſtianity</hi> beneath the <hi>Morality</hi> of <hi>Infidels,</hi> who many of them would <hi>loath</hi> and <hi>deteſt</hi> a thing ſo <hi>Execrable</hi> and <hi>Vile.</hi> But though I cannot commend the <hi>Juſtice</hi> of theſe Perſons, yet I may their <hi>Policy;</hi> who knew (at leaſt one of them) that I was provided of <hi>Evidence</hi> upon the place, to detect their <hi>Falſhood,</hi> if they ſhould inſiſt upon the <hi>Matters</hi> ſuggeſted in that <hi>Libel:</hi> and not only ſo, but that <hi>G. K.</hi> himſelf knew, before it was Printed, that divers <hi>Matters</hi> of <hi>Charge</hi> againſt me therein were <hi>falſe;</hi> and ſo far, as he hath had a hand either as the <hi>Author</hi> or <hi>Publiſher</hi> thereof, ſo far hath he <hi>ſinned</hi> againſt <hi>Knowledge,</hi> and ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iciouſly and premeditatedly abuſed me. If he will deny himſelf to be the <hi>Author,</hi> I ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eave that to be believed by as many as can: but who knows how much that <hi>Party</hi> were influenced by him, may ſafely conclude they did nothing of that kind without him. How<g ref="char:EOLhyphen"/>ever, That he hath <hi>Publiſhed</hi> and <hi>ſpread</hi> them <hi>Falſe,</hi> as they are, is certain, and and goes a great way to Entitle him to them. But
+<pb n="34" facs="tcp:95148:21"/>waving that at preſent, I ſhall take notice <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch paſſages in their other Pamphlets as con<g ref="char:EOLhyphen"/>cern me, ſo far as there is occaſion for it but to regard every <hi>ſilly Flirt</hi> thrown out a<g ref="char:EOLhyphen"/>gainſt me, were to waſte <hi>Time,</hi> and too much gratifie my <hi>Adverſaries.</hi>
+            </p>
+            <p>I find in his Book, called, <hi>Plea of the Ino<g ref="char:EOLhyphen"/>cent, &amp;c.</hi> p. 9. to palliate the <hi>Ill Language</hi> he had given to <hi>Friends:</hi> He complains of <hi>Par<g ref="char:EOLhyphen"/>tiality</hi> in others, Condemning that in him, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which themſelves are <hi>Guilty: Some of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> (ſays he) <hi>having not only called him</hi> Lyar, be Apoſtate, <hi>and worſe than Profane, as particu<g ref="char:EOLhyphen"/>larly</hi> S. J. <hi>in the hearing of divers Credible W<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>neſſes.</hi> That ever I called him <hi>Lyar,</hi> I deny not but that I know him to be <hi>guilty</hi> of it but I like not the Expreſſion. And as to be <hi>Apoſtaſie,</hi> to that degree as to render h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſe than <hi>Profane,</hi> is ſo evident, that to about to prove it, were a work of ſuper arrogation.</p>
+            <p>
+               <hi>Plea, &amp;c.</hi> p. 13. He accuſeth me of <hi>R<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Popery,</hi> for <hi>requiring</hi> (as he ſaith) <hi>an Abſo<g ref="char:EOLhyphen"/>lute Submiſſion from him to the Judgment of the Meeting.</hi> By calling of this <hi>Rank Popery,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſheweth the <hi>Rancour</hi> of his <hi>Spirit.</hi> He wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then allow, that a <hi>Conditional Submiſſion</hi> in <hi>Matters</hi> of <hi>Diff<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ence</hi> is due to the Society <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Meeting</hi> we belong to; but what is that <hi>Con<g ref="char:EOLhyphen"/>dition</hi> in his Senſe? I could never find it an<g ref="char:EOLhyphen"/>other than this, <hi>If the Party or Parties concern<g ref="char:EOLhyphen"/>ed like the Judgment, they will yield to it, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> otherwiſe.</hi> And this his <hi>Opinion</hi> he hath con<g ref="char:EOLhyphen"/>firmed
+<pb n="35" facs="tcp:95148:21"/>by <hi>Practice</hi> in his Spurning againſt the <hi>Judgment</hi> of the <hi>Yearly Meeting</hi> in <hi>London</hi> 1694. But this is ſo Trifling and Endleſs, that if his method of <hi>Goſpel Order</hi> and <hi>Diſci<g ref="char:EOLhyphen"/>pline</hi> (which he would fain have been Propa<g ref="char:EOLhyphen"/>gating in <hi>America</hi>) be no better than this, he may ſpare his Pains in further preſſing it up<g ref="char:EOLhyphen"/>on us.</p>
+            <p>Further he ſays, I declared openly in a <hi>Mens-Meeting: That to do God's buſineſs, we needed God's Power and Wiſdom; but to do our own buſineſs, as Men, we needed it not: which he ſaith himſelf,</hi> Geo. Hutcheſon, Robert Turner, <hi>and</hi> John Hart <hi>publickly teſtified againſt.</hi> How truly he hath related my words, I know not; but do remember I ſaid ſomething to that effect, and I wonder not at their <hi>Diſatisfaction,</hi> who are all ſince gone into the <hi>Separation.</hi> But <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e much perverts my intention therein, and would ſuggeſt as though I thought, we had <hi>Self-Sufficiency</hi> to do our own <hi>Buſineſs</hi> as <hi>Men.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know that all our <hi>Strength</hi> and <hi>Abilities</hi> are from <hi>God;</hi> my intent was only to ſhew that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Church-Affairs,</hi> even the <hi>outward part</hi> of them, are to be undertaken and managed in the Power and Wiſdom of the <hi>Word</hi> of <hi>Life:</hi> And if there be not a greater neceſſity to <hi>wait</hi> or it at ſuch times, and in ſuch Services, than <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n our <hi>Common Affairs,</hi> I leave to all to judge. And I think thoſe that took <hi>Offence</hi> at this, were too eaſily <hi>Offended.</hi>
+            </p>
+            <pb n="36" facs="tcp:95148:22"/>
+            <p>But he ſaith, <hi>I refuſed to ſubmit not only to the Judgment of the Mens-Meeting here at</hi> Phi<g ref="char:EOLhyphen"/>ladelphia, <hi>in a ſmall Worldly Matter betwixt</hi> Tho. Budd <hi>and me; but refuſed to ſubmit to the Judgment of a Meeting of the moſt Eminent Friends, viz.</hi> G. F. G. W. <hi>and others, appointed at</hi> London, <hi>to hear the difference betwixt</hi> Edw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Byllynge, <hi>and him,</hi> &amp;c.</p>
+            <p>Now as to the <hi>Firſt,</hi> which he calls a <hi>ſmall matter,</hi> it was a matter of <hi>truſt</hi> of 400 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Sterling,</hi> by us to be employed for the uſe the Children of <hi>Samuel Burden,</hi> given to thee by <hi>William Gravet</hi> of <hi>Exon:</hi> Which, how were uſed in that matter by <hi>Tho. Budd,</hi> I ſhall ſhew more fully if he deſires it. But my judgment was and is, that it's improper for any <hi>Religious Society to interrupt or alter the W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Deceaſed;</hi> and ſo the ſaid <hi>Meeting</hi> de<g ref="char:EOLhyphen"/>clared afterwards. So that in this there is nothing but <hi>Noiſe</hi> and <hi>Clamour.</hi> As to the other part of this <hi>Charge,</hi> it's <hi>falſe</hi> in <hi>Fact,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay, <hi>I refuſed to ſubmit,</hi> &amp;c. For it's we known, I did <hi>ſubmit,</hi> ſo far as I had Power elſe how came a <hi>Judgment</hi> to be given in the matter, againſt which he hath never heard <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> open my Mouth: But he hath <hi>mis-ſtated</hi> it, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not <hi>miſtaken</hi> it. For the <hi>Difference</hi> lay no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> betwixt me and <hi>Edw. B.</hi> but betwixt <hi>E. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and the Province of <hi>Weſt Jerſey,</hi> whoſe <hi>Ag<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> I then was in that <hi>Affair,</hi> and acted by <hi>Com<g ref="char:EOLhyphen"/>miſſion</hi> from them. And for him to ſay, he doth, <hi>The ſaid Meeting judged me guilty betraying my truſt to</hi> E. B. is falſe; there is
+<pb n="37" facs="tcp:95148:22"/>no ſuch thing in their <hi>Judgment,</hi> which I have ſtill by me. And were it not, that I hate to <hi>Rake in the Tombs of the Dead,</hi> I ſhould ſay more to that matter, of which I find him ſo <hi>Ignorant,</hi> that his <hi>ſilence</hi> therein had better re<g ref="char:EOLhyphen"/>comended his <hi>Wiſdom.</hi> But he adds: <hi>That I came away from</hi> England <hi>in Diſunity, with the moſt Faithful Friends in</hi> London <hi>on that very account.</hi> This I have often met with from divers <hi>Apoſtates,</hi> (for I bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs God, my <hi>Con<g ref="char:EOLhyphen"/>troverſie</hi> is ſtill with them) and this <hi>Story</hi> was raiſed and ſpread by hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Countryman <hi>George Hutchinſon,</hi> and is ſtill avouched by him; whoſe behaviour in that Affair, and <hi>Truſt</hi> of the <hi>Countries</hi> he knows, I could have diſcovered, and offered to do; but that the Meeting appointed for that end, deſired to have all things of that nature buried. But ſince he and others have thought fit to revive them, as an <hi>Effect</hi> of their <hi>Spleen</hi> to me, I thought fit to ſay thus much in my <hi>Juſt Vindi<g ref="char:EOLhyphen"/>cation.</hi> And ſhall add this, that had <hi>G. H.</hi> been as true to his <hi>Truſt,</hi> as he ſhould, he had met with as many <hi>Rubs</hi> as his <hi>Neighbours.</hi> But to ſay, <hi>That I went-from</hi> England <hi>in Diſ<g ref="char:EOLhyphen"/>unity with the moſt Faithful Friends,</hi> is a noto<g ref="char:EOLhyphen"/>rious <hi>Falſhood</hi> and <hi>Slander,</hi> and as ſuch, I re<g ref="char:EOLhyphen"/>ject it.</p>
+            <p>But he goes on and Flirts upon me, <hi>for my too ſevere Government in</hi> Weſt Jerſey; <hi>of which,</hi> he ſaith, <hi>The People were generally weary.</hi> This I know to be <hi>falſe;</hi> and there is not a <hi>Syllable</hi> to prove it. But ſince it's a <hi>General
+<pb n="38" facs="tcp:95148:23"/>Charge,</hi> as alſo what follows, of my <hi>Proud and Lofty Carriages,</hi> I ſhall only return it to him again, and account it (as he ſaith,) <hi>the way of all Sophiſters and falſe Accuſers: Plea</hi> &amp;c. p. 8. I perceive he takes it mighty ill, to be told by me, <hi>That though he deny our Judgment, yet we ſhall Judge him.</hi> it may be, he might think himſelf too <hi>Great</hi> to come under any <hi>Cenſure,</hi> whatever his <hi>miſcarriages</hi> were; but I deſire not to be of that <hi>Society,</hi> where any <hi>Member</hi> is too <hi>Great</hi> to be dealt with according to their juſt <hi>Demerits.</hi>
+            </p>
+            <p>
+               <hi>But</hi> (ſays he) <hi>ſeeing they have given falſe Judgment againſt</hi> G. K. <hi>it is no cauſe of offence for him to ſay, He trampled their Judgment as Dirt under his Feet.</hi> But if he pleaſe to re<g ref="char:EOLhyphen"/>member, thoſe words were ſpoken before any <hi>Judgment</hi> at all was given forth againſt him; ſo that he could not <hi>trample</hi> upon it, as <hi>falſe,</hi> before he knew what it was. And now that he doth know it, his <hi>Contempt</hi> of it, and frequent calling of it <hi>Falſe,</hi> will not make it ſo; but that it's <hi>True,</hi> I am very much ſatisfied. <hi>Firſt,</hi> from <hi>Friends</hi> in all places be<g ref="char:EOLhyphen"/>ing ſo <hi>
+                  <g ref="char:V">Ʋ</g>nanimous</hi> in it; and <hi>Next,</hi> from his and their <hi>
+                  <g ref="char:V">Ʋ</g>neaſineſs</hi> under it.</p>
+            <p>But <hi>G. K.</hi> frequently endeavours to incenſe his <hi>Reader, That ſome did endeavour to bear them down in Religious Matters, by their Power as Magiſtrates.</hi> This is very <hi>falſe,</hi> and <hi>unfair. He offers to give an inſtance of it,</hi> (in <hi>Plea,</hi> &amp;c. <hi>p.</hi> 16, <hi>&amp;</hi> 17.) about the <hi>Reading the Judgment, given forth againſt him by the</hi> 28. <hi>in the Monthly
+<pb n="39" facs="tcp:95148:23"/>Meeting at</hi> Frankford, and he ſaith; <hi>It may be noted, That,</hi> T. Lloyd, S. Jennings, J. de la Vall <hi>and</hi> S. Richardſon <hi>came to the ſaid Meet<g ref="char:EOLhyphen"/>ing, to Countenance the Reading of their Paper of falſe Judgment againſt</hi> G. K. <hi>and his Friends, having put it into the hands of</hi> W. Preſtone <hi>to read: Who offering to read it, the far greater part of the Meeting forbad the reading of it; declaring, that nothing ought to be read in their Meeting, without the general conſent of the Meet<g ref="char:EOLhyphen"/>ing But this unruly and diſorderly Man did preſume to read the Paper againſt the mind of moſt of the Friends preſent, and</hi> T. K. S. J. S. C. J. D. <hi>and</hi> Anthony Morrice, <hi>were ſo far from giving any Check to this diſorderly Proceeding, and Impoſition upon the true Liberty and Right of the Meeting, that they encouraged it; and one of them, without the leaſt occaſion given him, did threaten to bind an honeſt Friend to the Peace,</hi> S. Jennings <hi>calling out for a Conſtable.</hi>
+            </p>
+            <p>'Tis true, that the <hi>perſons</hi> before named were there, and were <hi>Magiſtrates;</hi> but I know not of any, that concerned themſelves about the <hi>Reading of the Paper,</hi> except <hi>S. Richardſon,</hi> who was a <hi>Member</hi> of that <hi>Meeting.</hi> And why they ſhould be ſaid to <hi>Countenance the Reading of the Paper</hi> any more than <hi>G. K.</hi> and thoſe with him, may be ſaid to be there to <hi>Diſcountenance</hi> it, I know not: For divers of them were no more <hi>Members</hi> of that <hi>Meeting</hi> than the other. But where is the blame of putting the <hi>Paper</hi> into the hand of <hi>W. P.?</hi> He was the <hi>Clerk</hi> of the <hi>Meeting.</hi> But to
+<pb n="40" facs="tcp:95148:24"/>ſay, <hi>The far greateſt part of the Meeting forbad the reading of it,</hi> I cannot believe to be true, according to my Obervation. I know, that there was a <hi>Party</hi> in the <hi>Meeting,</hi> which were againſt it, which <hi>Joſeph Fiſher</hi> did head with more <hi>Rage,</hi> than true <hi>Zeal</hi> or <hi>Knowledge.</hi> This <hi>Party</hi> were Ripe for the <hi>Separation,</hi> and quickly fell in wit it; and no wonder they were ſo <hi>Tender</hi> of <hi>Judging</hi> it. But why was <hi>W. Preſton</hi> ſo <hi>unruly</hi> and <hi>diſorderly</hi> for reading the <hi>Paper,</hi> when ſent to him from a <hi>Meeting</hi> in Unity? And I muſt ſay, and I believe, may eaſily be proved, the far <hi>greater part</hi> preſſed and deſired it. But methinks <hi>G. K.</hi> ſhould bluſh, to ſtile any Man <hi>
+                  <g ref="char:V">Ʋ</g>nruly</hi> and <hi>Diſorderly,</hi> though it were true; ſince it's hard to find any thing of Mankind (eſpeci<g ref="char:EOLhyphen"/>ally pretending to <hi>Learning,</hi> and a <hi>Civil Edu<g ref="char:EOLhyphen"/>cation</hi>) that in that reſpect can equ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf.</p>
+            <p>But ſhe ſays, <hi>That one of them threatned <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bind an honeſt Friend to the Peace.</hi> I know not who it was that <hi>threatned</hi> that, nor to whom but ſuch as know <hi>G. K.</hi> and the <hi>Company</hi> that came with him, and others that follow his here, may pretty well gueſs, what he might be for an <hi>Honeſt Friend.</hi> But that I did in<g ref="char:EOLhyphen"/>quire, <hi>If there were a Conſtable there?</hi> is true and I thought was very needful to <hi>keep the Peace.</hi> And there being one there, I did <hi>Charge</hi> him, as was my <hi>Duty</hi> to do that and no more: For they had raiſed ſuch a <hi>Tumult</hi> and <hi>Diſorder</hi> in the <hi>Meeting,</hi> that the <hi>Woman</hi>
+               <pb n="41" facs="tcp:95148:24"/>of the <hi>Houſe</hi> came to me under much <hi>Concern,</hi> and told me, <hi>She feared there would be miſchief.</hi> For tho' they did not <hi>Strike,</hi> yet in their <hi>Rage</hi> there were ſome, that did <hi>violently eatch</hi> at the <hi>Paper</hi> to have torn it away; who had ſo little of <hi>Religion</hi> in them, that we had no aſſurance, but they could <hi>Fight</hi> as well as <hi>Snatch</hi> and <hi>Rail.</hi> This was the <hi>Meeting,</hi> where <hi>G. K.</hi> himſelf called a <hi>Magiſtrate</hi> (viz. <hi>Direck op de Grave</hi>) <hi>Impudent Raſcal:</hi> (which after<g ref="char:EOLhyphen"/>wards to juſtifie, he was put to the trouble of uſing <hi>Goodman</hi>'s <hi>Dictionary.</hi>) I think this laſt paſſage ſhews, there was ſo much of <hi>Heat</hi> and <hi>Diſorder,</hi> as might need a <hi>Conſtable</hi> to ſuppreſs.</p>
+            <p>
+               <hi>G. K.</hi> in one of his Books (which I have not by me) charges me, with <hi>openly calling one of our Church-Members, in a Monthly-Meeting Nonſenſicai Puppy.</hi> The firſt Intimation I had of this was in <hi>Print,</hi> which ſomewhat ſurpri<g ref="char:EOLhyphen"/>ſed me knowing my ſelf to be <hi>Clear</hi> of it. But being ſaid to be ſpoken in a <hi>Monthly-Meeting,</hi> I went to divers of the <hi>Members</hi> of that <hi>Meet<g ref="char:EOLhyphen"/>ing,</hi> to inquire if they heard any ſuch thing, or could tell me who had raiſed it? All that ſpake with, ſaid, They heard no ſuch thing: Till at laſt it was ſaid to be ſpoken by one <hi>Tho. Treſs,</hi> a ſort of an odd ſingular Man, that ſometimes <hi>Meets</hi> with <hi>Friends,</hi> ſometimes with the <hi>Separatiſts.</hi> However, he affirmed it to be true. I endeavoured to Convince him, that it muſt be (at beſt) a <hi>miſtake,</hi> ſeeing there were ſo many, ſome of which were much
+<pb n="42" facs="tcp:95148:25"/>nearer to me than him, who affirmed, they heard no ſuch thing, nor did they believe any ſuch thing: And I do ſolemnly affirm, <hi>There was no ſuch thing.</hi> And ſo ſhall leave the Pro<g ref="char:EOLhyphen"/>bability of the Truth of it to be judged by others.</p>
+            <p>But to Aggravate the Crime, it's ſaid, <hi>to be ſpoken to a Church-Member too:</hi> What I did ſay, was ſpoken to <hi>Griffith Jones,</hi> who I ne<g ref="char:EOLhyphen"/>ver heard, himſelf affirmed any ſuch thing of me; ſo in that reſpect was a better <hi>Church-Member</hi> than he, that had <hi>falſely Accuſed</hi> me But what <hi>Griffith</hi> is for a <hi>Church-Member,</hi> I ſuppoſe is well known here, as well as elſe<g ref="char:EOLhyphen"/>where.</p>
+            <p>In that Book under the Name of <hi>Roben Hanny,</hi> p. 13. I am charged with <hi>Atteſting to Name of God to a Lye;</hi> as <hi>G. K.</hi> proved to the <hi>Yearly Meeting,</hi> by a <hi>Paper</hi> ſigned by <hi>Sam<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Jennings</hi> his own hand. What I ſaid in the <hi>Yearly Meeting</hi> was <hi>true,</hi> viz. <hi>That</hi> G. K. <hi>did ſay, That there were more damnable Hereſies and Doctrines of</hi> Devils <hi>amongſt the</hi> Quakers, <hi>that amongſt any Profeſſion of Proteſtants:</hi> And think, I had Reaſon to know it, for I wrote it from his Mouth, and read it to him, and he denied it not at that time. Beſides, it is not I only, but the <hi>Meeting</hi> of <hi>Miniſtring Friend</hi> in <hi>Penſilvania,</hi> &amp;c. that ſays it, for the <hi>Paper</hi> is from them. But his Cavil at the <hi>Paper</hi> is becauſe it ſaith (in another part of it) <hi>That he repeating the ſaid words over again, declared the ſame thing,</hi> viz. <hi>That there were more dam<g ref="char:EOLhyphen"/>nable
+<pb n="43" facs="tcp:95148:25"/>Hereſies and Doctrines of Devils amongſt them, (inſtead of Quakers) than amongſt any Profeſſion of Proteſtants.</hi> Who that <hi>them</hi> was, he had declared before, <hi>viz.</hi> the <hi>Quakers;</hi> and who did he ſpeak it to? <hi>Quakers:</hi> And is any thing more common, than to ſay to any Society, ſuch or ſuch things are amongſt them. But I ſhall not inſiſt further on it, believing, that no honeſt <hi>Friend</hi> believed, that I was Guilty of any ſuch thing (for if they had, no doubt I ſhould have been Cenſored,) much leſs that it was proved againſt me: And here, I think the <hi>Author</hi> of that <hi>Pamphlet</hi> hath ventured upon <hi>Two great Falſhoods,</hi> to prove me guilty of <hi>One,</hi> viz. <hi>Firſt, That what I ſaid was a Lye:</hi> And <hi>Secondly, That it was proved ſo.</hi>
+            </p>
+            <p>In that Book called the Cauſeleſs Ground of Surmiſe, <hi>&amp;c.</hi> p. 12, <hi>&amp;</hi> 13. <hi>G. K.</hi> ſeems equally uneaſie that the Yearly Meeting have cenſured me and Friends in <hi>America</hi> no more, as that they have cenſured him and thoſe in the Separation with him ſo much. I ſhall here paſs by his complaint of what he calls the falſe Judgment of the 28, having ſpoken to it before; but I ſhall here take notice of the In<g ref="char:EOLhyphen"/>ſtance he gives of my great Pride. When ſome of their Friends (as he ſaith,) were Ex<g ref="char:EOLhyphen"/>poſtulating the caſe with me, I ſtretched out my hand, ſaying, If I draw forth my hand, I will not pull it in again, until I have quelled you all. Something to this effect I did ſay, though not in the ſame words, which I acknow<g ref="char:EOLhyphen"/>ledge
+<pb n="44" facs="tcp:95148:26"/>to be unadviſedly ſpoken, and I might have expreſt my ſelf in words leſs ſubject to exception. But it ought always to be allow<g ref="char:EOLhyphen"/>ed, where any thing Ambiguous is ſpoken, for the perſon to interpret his meaning, and I do ſolemnly ſay, I never intended them in that Senſe, as they are by him and his party per<g ref="char:EOLhyphen"/>verſly conſtrued, as in the Book of the Tryal, <hi>&amp;c.</hi> They ſay, this preſumptuous expreſſion ſavoureth too much of <hi>Lucifers</hi> Pride, who ſaid, I will be like the moſt high, <hi>&amp;c.</hi> I think none that know me, can ſuſpect me to be guilty of ſuch Vanity and Impiety, but the Friend he ſpeaks of, that expoſtulated with me, were of his own party, particularly <hi>John Macon</hi> (of whom I have ſpoken already,) and <hi>Ralph Ward,</hi> of whom there is no great reaſon to ſpeak much as a Friend, theſe two with o<g ref="char:EOLhyphen"/>vers others of the Rabble, followed the Ma<g ref="char:EOLhyphen"/>giſtrates, as they were going from the Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Dinner, and they two eſpecially did ra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ſhall intollerably at us, ſaying, Then thank d God we could not take their Live away, but we coveted their Goods; to who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I replied, let us alone, you ſee that we an unwilling to take any great notice of you abuſes, and do the leaſt we can do; but the following us in the Street, and perſiſting i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their raillery, occaſioned me to ſay what I did the meaning of which in a candid and true Senſe, was no more then this, That if I on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ingage, and make uſe of the power I have, is the ſtation I ſtand, I will not deſiſt, 'till
+<pb n="45" facs="tcp:95148:26"/>have reduced you to a better behaviour: And precarious is the Power and Condition of that Magiſtrate that cannot do it.</p>
+            <p>I ſhall now take notice of the procedure of Law that hath been againſt <hi>G. K.</hi> and ſome of his Party, which they ſo loudly and falſly call Perſecution. 'Tis true, there is ſuch a thing as Perſecution, and I take it to be thus diſtinguiſh<g ref="char:EOLhyphen"/>ed from a juſt Proſecution. Perſecution is a ſuffering inflicted upon the ſufferers, for the diſcharge of their duty to God. Proſecution is a juſtice done on Tranſgreſſors of the Law, for their injuries done to Men, or blaſ<g ref="char:EOLhyphen"/>phemies to God. Now that theſe Men were Proſecuted by Law for their abuſes to the Government, and thoſe that were concerned in the Adminiſtration of Juſtice, and how much ſome of them courted it, and endeavoured to provoke the Magiſtrates to it, I ſhall ſhew hereafter.</p>
+            <p>In the Infancy of the ſettlement of <hi>Penſilva<g ref="char:EOLhyphen"/>nia,</hi> the Legiſlators ſaw cauſe to make pro<g ref="char:EOLhyphen"/>viſion by a Law, to ſecure the reputation of the Magiſtrates from the contempt of others, foreſeeing no doubt (and perhaps perceiving ſomething of it then) that People by reaſon of their equality in other things, might be un<g ref="char:EOLhyphen"/>der greater temptations, to run into this evil there, than where the condition of the Magiſtrates had raiſed them above, and ſet them at a greater diſtance from the Common People. It was therefore enacted, That who<g ref="char:EOLhyphen"/>ſoever ſhould ſpeak contemptuouſly, or ſlight<g ref="char:EOLhyphen"/>ingly
+<pb n="46" facs="tcp:95148:27"/>of a Magiſtrate, ſhould be puniſhed by a Fine according to the nature of the offence.</p>
+            <p>Now that theſe complainers of Perſecution, had egregiouſly tranſgreſt this Law, and that they did endeavour to raiſe Sedition and ſub<g ref="char:EOLhyphen"/>vert the Government, and for that cauſe only, and not upon any Religious account they were Proſecuted, this following Inſtrument will make appear, together with the ſeveral Pre<g ref="char:EOLhyphen"/>ſentments brought in againſt them by the Grand Jury.</p>
+            <pb n="47" facs="tcp:95148:27"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>At a Private Seſſions held for the County of <hi>Philadel<g ref="char:EOLhyphen"/>phia,</hi> the <hi>25th.</hi> of the <hi>6th.</hi> Month, 1692.</head>
+                        <p>Before,
+<list>
+                              <item>
+                                 <hi>Arthur Cooke,</hi>
+                              </item>
+                              <item>
+                                 <hi>Samuel Jennings,</hi>
+                              </item>
+                              <item>
+                                 <hi>Sam. Richardſon,</hi>
+                              </item>
+                              <item>
+                                 <hi>Humphry Murry,</hi>
+                              </item>
+                              <item>
+                                 <hi>Anthony Morris,</hi>
+                              </item>
+                              <item>
+                                 <hi>Robert Ewer,</hi>
+                              </item>
+                           </list> Juſtices of the County.</p>
+                        <p>WHEREAS the Government of this Province being by the Late King of <hi>England</hi>'s peculiar favour Veſted, and ſithence continued in Governour <hi>Penn,</hi> who thought fit to make his, and our worthy friend <hi>Thomas Lloyd</hi> his De<g ref="char:EOLhyphen"/>puty Governour; by, and under whom the Magiſtrates do act in the Govern<g ref="char:EOLhyphen"/>ment;
+<pb n="48" facs="tcp:95148:28"/>and whereas it hath been proved before us, that <hi>George Keith</hi> being a Re<g ref="char:EOLhyphen"/>ſident here, did comrary to his duty pub<g ref="char:EOLhyphen"/>lickly Revile the ſaid Deputy Governour, By calling him an Impudent Man, celling him, he was not fit to be a Governour, and that his name would ſtink, with many other ſlighting and abuſive Ex<g ref="char:EOLhyphen"/>preſſions, both to him and the Magi<g ref="char:EOLhyphen"/>ſtrates; (and he that uſeth ſuch Exorbi<g ref="char:EOLhyphen"/>tancy of Speech towards our ſaid Go<g ref="char:EOLhyphen"/>vernour, may be ſuppoſed will eaſily dare to call the Members of Council and Ma<g ref="char:EOLhyphen"/>giſtrates Impudent Raſcals,) as he hath lately called one in an open Aſſembly that was Conſtituted by the Proprietary to be a Magiſtrate) and he alſo charge the Magiſtrates, who are Miniſters here with Ingroſſing the Magiſtratical Power into their hands, that they might uſurp Authority over him; ſaying alſo he hoped in God, he ſhould ſhortly ſee their Power taken from them, all which he acted in an undecent manner.</p>
+                        <p>And further, the ſaid <hi>George Keith,</hi> with ſeveral of his Adherents, having ſome few days ſince, with unuſual Inſo<g ref="char:EOLhyphen"/>lence, by a Printed Sheet, Called an Ap<g ref="char:EOLhyphen"/>peal,
+<pb n="49" facs="tcp:95148:28"/>
+                           <hi>&amp;c.</hi> Tradueed and vilely miſre<g ref="char:EOLhyphen"/>preſented the Induſtry, (are, Readineſs and Vigilance, of ſome Magiſtrates and others here, in their late proceedings a<g ref="char:EOLhyphen"/>gainſt the Privateers, <hi>(viz.) Babitt</hi> and his Crew, in order to bring them to Condign puniſhment, whereby to diſ<g ref="char:EOLhyphen"/>courage ſuch attempts for the future; and have alſo thereby defamed, and ar<g ref="char:EOLhyphen"/>raigned the determinations of the Pro<g ref="char:EOLhyphen"/>vincial Judicature againſt Murtherers; and not only ſo, but alſo by wrong In<g ref="char:EOLhyphen"/>ſinuations have laboured to poſſeſs the Readers of their Pamphlet, that it is In<g ref="char:EOLhyphen"/>conſiſtent for thoſe who are Miniſters of the Goſpel to act as Magiſtrates: Which if granted, will render our ſaid Proprie<g ref="char:EOLhyphen"/>tary incapable of the Powers given him, by the ſaid King's Letters, Patents, and ſo Proſtitute the Validity of every act of Government, more eſpecially in the Exe<g ref="char:EOLhyphen"/>cutive part thereof, to the Courteſie and Cenſure of all factious Spirits, and Male<g ref="char:EOLhyphen"/>contents under the ſame.</p>
+                        <p>Now for as much as we, as well as others have born, and ſtill do patiently endure the ſaid <hi>George Keith</hi> and his ad<g ref="char:EOLhyphen"/>herents in their many Perſonal Reflecti<g ref="char:EOLhyphen"/>ons
+<pb n="50" facs="tcp:95148:29"/>againſt us, and their groſs Revilings of our Religious Society, yet we cannot (without the Violation of our Truſt to the King and Governour, as alſo to the Inhabitants of this Government) paſs by or Connive at ſuch part of the ſaid Pamphlet and Speeches, that have a ten<g ref="char:EOLhyphen"/>dency to Sedition, and Diſturbance of the Peace, as alſo to the Subverſion o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> the Preſent Government, or to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> ſperſing of the Magiſtrates thereof.</p>
+                        <p>Therefore, For the undeceiving of a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> People, we have thought fit by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Publick Writing, not only to ſigni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> that our precedure againſt the Perſon now in the Sheriffs Cuſtody, as well as what we intend againſt others Concert<g ref="char:EOLhyphen"/>ed, (in its proper place) Reſpects only that part of the ſaid Printed Sheet which appears to have the Tendency aforeſaid and not any part relating to difference in Religion, but alſo theſe are to Cau<g ref="char:EOLhyphen"/>tion ſuch who are well affected to the Security, Peace, and Legal Adminiſtra<g ref="char:EOLhyphen"/>tion of Juſtice in this place, that they give no Countenance to any Reviler and Contemners of Authority, Magi<g ref="char:EOLhyphen"/>ſtrates, or Magiſtracy, as alſo to warn
+<pb n="51" facs="tcp:95148:29"/>all other Perſons, that they forbear the further publiſhing and ſpreading of the ſaid Pamphlets, as they will anſwer to the contrary at their Peril.</p>
+                        <p>
+                           <hi>Given under our Hands and Seal of the County, the Day, Year, and place aforeſaid.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <pb n="52" facs="tcp:95148:30"/>
+                        <head>
+                           <hi>Philadelphia,</hi> the Fifth of the Eighth Month, 1692.</head>
+                        <p>WE of the Grand Jury, for the Body of this County, do preſent <hi>Peter Boſs,</hi> for that he hath accuſed <hi>S. J.</hi> being a Magi<g ref="char:EOLhyphen"/>ſterial Officer, with being an unjuſt Judge and of his being Drunk, and of laying wager with <hi>John Slocum,</hi> and for many other Scandalous, Reproachful, and Malicious Ex<g ref="char:EOLhyphen"/>preſſions, to the defaming of him, and tend<g ref="char:EOLhyphen"/>ing to the diſturbance of the Peace, contrary to the Law in that Cauſe made and pro<g ref="char:EOLhyphen"/>vided.</p>
+                        <p>We of the Grand Jury, do preſent <hi>Georg Keith</hi> and <hi>Thomas Budd,</hi> as Authors of a Book Entituled, The Plea of the Innocent. Where in <hi>page</hi> the <hi>13th.</hi> about the latter end of the ſame, they the ſaid <hi>G. K.</hi> and <hi>T. B.</hi> deſa<g ref="char:EOLhyphen"/>mingly accuſe <hi>Samuel Jennings,</hi> he being a Judge and Magiſtrate of this Province, of being too High and Imperious in Worldly Courts, calling him, an Ignorant, Preſump<g ref="char:EOLhyphen"/>tuous and Inſolent Man, greatly Expoſing his Reputation, of an ill preſident, and con<g ref="char:EOLhyphen"/>trary
+<pb n="53" facs="tcp:95148:30"/>to the Law in that Caſe made and pro<g ref="char:EOLhyphen"/>vided.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The preſentment of <hi>William Bradford,</hi> I take as they give it in the Tryal, the ſubſtance of which as they ſay, was, That they, <hi>viz.</hi> The Grand Jury preſent the <hi>9th, 10th, 11th,</hi> and <hi>12th,</hi> Articles of the Paper called An Ap<g ref="char:EOLhyphen"/>peal, <hi>&amp;c.</hi> As being of a tendency to weak<g ref="char:EOLhyphen"/>en the hands of the Magiſtrates, and we pre<g ref="char:EOLhyphen"/>ſent <hi>William Bradford</hi> for Printing of the ſaid Seditious Paper, <hi>&amp;c.</hi>
+            </p>
+            <p>I ſhall not Comment on the Seſſions Paper; nor Preſentments, they ſpeak plain enough for themſelves, and do ſufficiently demon<g ref="char:EOLhyphen"/>ſtrate, that the perſons exclaming ſo much of Perſecution, were but under a juſt Proſecuti<g ref="char:EOLhyphen"/>on of Law, for their contempt and abuſes of the Magiſtrates and Government, <hi>&amp;c.</hi> But <hi>G. K. &amp;c.</hi> have a new deviſe to get off of that, after they have traduced and expoſed them at their pleaſure, to tell them if charged with it, that they ſpeak not then to them, nor of them as Magiſtrates. How then do they ſpeak to them? Why to ſome as Miniſters, and to others by profeſſion Quakers, and do declare they do it conſcientiouſly too, Cauſe<g ref="char:EOLhyphen"/>leſs grounds, <hi>&amp;c.</hi> p. 12, and 13. But how can any believe that this is done conſcienti<g ref="char:EOLhyphen"/>ouſly, or with an intent, or deſire to reclaim the perſons ſo expoſed by them (ſuppoſing they were guilty) but rather to recriminate ſuch as have been engaged in a teſtimony a<g ref="char:EOLhyphen"/>gainſt them. Have they no better way to
+<pb n="54" facs="tcp:95148:31"/>diſcharge their Conſciences to ſuch as they ſuppoſe to have erred, than to publiſh their defects (if they were ſo) to the World, be<g ref="char:EOLhyphen"/>fore ever they have ſpoken to the parties th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> abuſed by them? What Conſcience is in this I ſhall leave to any but a ſeared Conſcience to determine. But <hi>G. K.</hi> had like to have ſpoiled all, by an implicite acknowledgment, that ſome words ſpoken or written by him; and <hi>T. B.</hi> by way of charge againſt me, did reſpect my Magiſtiacy; See Cauſeleſs grounds, <hi>&amp;c.</hi> p. <hi>12th.</hi> Where repeating what they had before charged me with, <hi>viz.</hi> That I was too high and imperious, both in Friends Meetings, and Worldly Courts, and of being an Ignorant Preſumptuous and Inſolent Man, which la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> words, ſaith he, did no ways reſpect his Ma<g ref="char:EOLhyphen"/>giſtracy. Then I hope he will grant that ſome part of thoſe words did, which is too plain t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be denied, for they tax my carriage in Worldly Courts, in the exerciſe of my Office as a Ma<g ref="char:EOLhyphen"/>giſtrate, and this is that for which <hi>G. K.</hi> and <hi>T. B.</hi> were Preſented and Proſecuted: which I think will take away all pretences, that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was on a Religious and Conſcientious account and that inſtead of being perſecuted by the Government, they were the perſecutors of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Government (if there be ſuch a thing as Tongue and Heart perſecution) as <hi>G. K.</hi> falſly inſu<g ref="char:EOLhyphen"/>ates, he and his party were the object of Rea<g ref="char:EOLhyphen"/>ſons and Cauſes, <hi>&amp;c.</hi> p. 3.) But how much he and his party were guilty of what they charged on others in that reſpect, their own late Book
+<pb n="55" facs="tcp:95148:31"/>will ſhew in a great part, but ſuch as were Eye witneſſes, and immediately concerned, did ſee and feel more; nor will <hi>G. K</hi>'s. Cer<g ref="char:EOLhyphen"/>tificate from the Deputy Governour and Coun<g ref="char:EOLhyphen"/>cil of <hi>Philadelphia</hi> (which he ſays clears him of all theſe charges, amply declaring his in<g ref="char:EOLhyphen"/>nocency and peaceable behaviour towards the Government, and them in Authority at that time) do him much ſervice, nor weigh much with thinking People. For who is it that doth not know the propenſity that com<g ref="char:EOLhyphen"/>monly appears (on any turn or change) in thoſe that ſucceed in place and power, to cenſure and expoſe ſuch as were before under the ſame charge and truſt they are called to, eſpecially where there hath been any emula<g ref="char:EOLhyphen"/>tion, or former grudgings on that account? But I ſhall now touch upon ſome words and behaviour of <hi>G. K</hi>'s. after which I ſhall ſub<g ref="char:EOLhyphen"/>mit it to the Judgment of the Impartial, how far that Certificate deſerves to be credited, or <hi>G. K.</hi> excuſed. I have been told by ſeve<g ref="char:EOLhyphen"/>ral Friends that were in a Meeting in <hi>Weſt-Jerſey,</hi> where they heard <hi>G. K.</hi> ſay, That they ſhould hear before it was long, that he were either whipt or impriſoned; and rather than he would appear a falſe Prophet, he did what he could to procure it; and hundreds can witneſs, that he did in an open Meeting at <hi>Philadelphia,</hi> ſay to the Deputy Governour <hi>Tho. Lloyd,</hi> Thou art a pitiful Governour, why doſt thou not ſend me to Priſon, or or<g ref="char:EOLhyphen"/>der me to be whipt, my back itcheth for a
+<pb n="56" facs="tcp:95148:32"/>whiping, and hath long itched for it. And what language he gave to <hi>Tho. Lloyd,</hi> Telling him he was an impudent Man, <hi>&amp;c.</hi> And how he called a Magiſtrate Impudent Raſcal, you have an account before. Now what thinkeſt thou Reader, Is this the Innocent perſon, whoſe peaceable behaviour towards the Go<g ref="char:EOLhyphen"/>vernment deſerved to be ſo amply declared and he cleared of all charges to the contrary, by a Certificate from a Deputy Govern our and Council? Should I enumerate all his abuſes to Government, 'twould be tedious but as all indifferent People muſt needs judge him much to blame, from what is already ſaid, ſo I think he is moſt of all to blame, after all this, to juſtifie ſuch practices, abuſively <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> proclaim to the World, that he is perſecute<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for Conſcience ſake; and when all is done What did he or <hi>Tho. Budd</hi> ſuffer? Were they, or either of them Whiped or Impriſon<g ref="char:EOLhyphen"/>ed? No ſuch matter, they were only pre<g ref="char:EOLhyphen"/>ſented and had a tryal at Court, were adjudg<g ref="char:EOLunhyphen"/>ed Guilty, and had a Fine of Five Pound each ſet upon them, which was never levied; for which if they had gratitude enough, they ought to acknowledge the Clemency of the Government, and particularly ſuch as might have exacted it. But ſuppoſe they had been as hardly and rigorouſly dealt with, as they would have the World to believe. What were all that to me, the abuſe was not taken as done to a ſingular or private Perſon, but to the Government, and accordingly they
+<pb n="57" facs="tcp:95148:32"/>were Preſented by the Jury, and Impleaded by an Attorney, ſuch as the Court was pleaſed to allow: But they ſay I was upon the Bench when they were Fined, which is alſo a miſtake, for though I were there when the Judgment of Court was delivered, yet I neither delivered it, nor was I concerned in agreeing what it ſhould be, but as is uſual <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſuch Caſes; the Juſtices conſult and agree that in their Chamber, and order it to be delivered by the Clerk in Writing at the cloſe of the Court.</p>
+            <p>The next thing I take notice of is that of <hi>Peter Boſs;</hi> who in that Book of the Tryal, <hi>&amp;c.</hi> p. 10. is repreſented to be in Church Fellowſhip with me, at the time when he wrote that Letter to me, ſhewing his diſ<g ref="char:EOLhyphen"/>like of the judgment of the Twenty Eight, and telling me (as he ſaith) of ſome Scan<g ref="char:EOLhyphen"/>dals I lay under, <hi>&amp;c.</hi> I believe the occaſion and reaſon of his ſending that Paper to me at that time is truly given, <hi>viz.</hi> That he was offended with the Judgment of the Twenty Eight Friends, againſt <hi>G. K. &amp;c.</hi> For this indeed I take to be the chief ground of all their quarrel with me, but that he was in Church Fellowſhip with me, I deny; for the judgment given forth againſt <hi>G. K.</hi> and his adherents included him, who hath given ſuffi<g ref="char:EOLhyphen"/>cient proof, how cloſely he adhered to him. By what follows, therefore, no reaſon to ex<g ref="char:EOLhyphen"/>pect from me any dealing with, in a Church Method. But if he accounted himſelf a
+<pb n="58" facs="tcp:95148:33"/>Church Member with me; Why did he not uſe me as ſuch, and admoniſh me privately, before he went about openly to defame me? But to ſay that the Paper he ſent to me was private is not true, for it came unſealed to me, which ſhews it neither was private, nor in<g ref="char:EOLhyphen"/>tended to be ſo. And how like a Chriſtian admonition is it to me, let all judge, for he ſeems not to addreſs himſelf to me in it, which makes perfect Nonſence, and I have been told by many, the matter contained in that Scur<g ref="char:EOLhyphen"/>rilous Paper, was frequently reported in any place, or company, by him before I received it, a Copy of which here follows:</p>
+            <pb n="59" facs="tcp:95148:33"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>The Paper lately publiſhed at <hi>Philadelphia,</hi> by 28. a<g ref="char:EOLhyphen"/>gainſt <hi>G. K.</hi> and thoſe joined with him, <hi>&amp;c.</hi>
+                        </head>
+                        <p>HAS and is like to occaſion much Trouble and Difference among us, not only becauſe of the falſe things Compact in it, as is well known to many Witneſſes, and now to Impoſe it on all the Meetings, is plain down<g ref="char:EOLhyphen"/>right Popery; and gives juſt occaſion to all, not only to judge it as it is for the Abuſe, but alſo inſpect further into things and them; theſe Mini<g ref="char:EOLhyphen"/>ſtring Impoſers upon other Mens Conſciences, like unto the <hi>Roman</hi> Clergy; and to ſhow how ill the People do reſent theſe things, one who was not a <hi>Quaker,</hi> ſo ſoon as the Paper was made publick, ſays, What
+<pb n="60" facs="tcp:95148:34"/>Devilliſh work is here like to be, a pack of Fools have ſent their Bull out? What a piece of work you'l ſee in ſhort time, and how they'l ex<g ref="char:EOLhyphen"/>poſe themſelves, and force others to ſend it home in Print; (ſays he) with worſe words of ſome, unfit to mention here, <hi>&amp;c.</hi> By expoſing this your Edict, you have made all Peo<g ref="char:EOLhyphen"/>ple your Judges, into whoſe hands it ſhall come; (the Papiſts themſelves) for your Unrighteous Judgment, and drawing in thoſe with you that have ſubſcribed to they know not what, who were not preſent at either of the Meetings; ſo conſequently did not hear the Words charged on <hi>G. K.</hi> to be ſpoken by him, <hi>&amp;c.</hi> but have taken all ſupon truſt, and ſigned as a Man that would be a falſe Witneſs to a Bill or Bond for Money, where none is due, 'tis hoped that ſome will ſee their over-haſte, and repent it, as well as others have done. How can you ex<g ref="char:EOLhyphen"/>pect this act of yours will be accounted Righteous Judgment, to Condemn a Man for Words, and cover one anothers Deeds as well as worſe Words, in
+<pb n="61" facs="tcp:95148:34"/>and among your ſelves; Has <hi>S. J.</hi> ever been dealt with for his many Enormous, Palpable, Groſs miſcarri<g ref="char:EOLhyphen"/>ages chargeable upon him, his Great<g ref="char:EOLhyphen"/>neſs and Pride, ſo Inſolent and Lofty none dared to touch him, and for his Abuſes to a Poor Worm, who writ to him for Juſtice and Satisfacti<g ref="char:EOLhyphen"/>on, could have no anſwer of the ſaid Letter, and being diſcontented to hear him Preach to an Auditory, knowing his Life to be unſavoury, and an unjuſt Judge: I writ the Second Letter to him of diſlike to his Preaching, which after he had read, flung it into the Fire; Why did he not anſwer it, and get ſatisfaction from the Author? But that he knew himſelf Tardy; reſolved to exerciſe <hi>Bonners</hi>'s Cruelty, on my poor Paper; and its matter of Sorrow, there's divers among you know enough of <hi>S. J.</hi> but you cover him and one another; and whom you pleaſe to a<g ref="char:EOLhyphen"/>buſe down with him amain; Do you think People are Blind, and without Senſe? Be it known, they See, they Hear, <hi>&amp;c.</hi>
+                        </p>
+                        <pb n="62" facs="tcp:95148:35"/>
+                        <p n="1">1. Pray let it be queried into, whe<g ref="char:EOLhyphen"/>ther it was not true that <hi>S. J.</hi> did wage his Horſe with <hi>John Slocum,</hi> to Ride a Race with their Horſes; and whether <hi>J. S.</hi> did not refuſe to take the advan<g ref="char:EOLhyphen"/>tage of him becauſe <hi>S. J.</hi> was Drunk, <hi>&amp;c?</hi>
+                        </p>
+                        <p n="2">2. And pray let it be enquired into, whether <hi>S. J.</hi> at another time was not ſo Drunk could ſcarce get over the Ship ſide of <hi>Joſeph Bryar,</hi> when at <hi>Burling<g ref="char:EOLhyphen"/>ton?</hi>
+                        </p>
+                        <p n="3">3. And pray let it be enquired, whe<g ref="char:EOLhyphen"/>ther the ſaid <hi>S. J.</hi> did not wickedly i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Surveying a Tract of Land, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <hi>John Antrum</hi> had actually began to do?</p>
+                        <p n="4">4. And pray let it be enquired into whether <hi>S. J.</hi> did not take away the Meadow of <hi>Richard Matthews,</hi> who be<g ref="char:EOLhyphen"/>ing in <hi>England</hi> took the advantage What the effect will be time muſt mani<g ref="char:EOLhyphen"/>feſt, how odious he will render other for <hi>S. J</hi>'s. ſake, he being a pretty Emi<g ref="char:EOLhyphen"/>nent Man in <hi>London?</hi>
+                        </p>
+                        <p n="5">5. And pray let it be enquired into the Actions and Abuſes of <hi>S. J.</hi> to <hi>John Skeen</hi> Deceaſed, which ſhould have
+<pb n="63" facs="tcp:95148:35"/>been anſwered at <hi>Burlington</hi> Meet<g ref="char:EOLhyphen"/>ing?</p>
+                        <p n="6">6. And pray let it be enquired into, whether it were <hi>S. J.</hi> or <hi>J. Simcock,</hi> that was by two perſons carried to Bed Drunk?</p>
+                        <p n="7">7. And pray let it be further enquired into, whether it were the ſaid <hi>S. J.</hi> or <hi>J. Simcok,</hi> that was ſo Drunk loſt a Coat that was borrowed of another Man, <hi>&amp;c.</hi> Seeing ſo many of you have Condemn<g ref="char:EOLhyphen"/>ed <hi>G. K.</hi> for Words, let theſe Actions be alſo Condemned, they being as great pretenders to be Miniſters as him; and pray take ſpecial care this be not burnt as the former, having a Copy of the ſame.</p>
+                        <closer>
+                           <signed>Peter Boſs.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="64" facs="tcp:95148:36"/>
+            <p>THE firſt thing I take notice of in the foregoing Paper, is the ſtrange con<g ref="char:EOLhyphen"/>fidence of the Man; in accuſing me to be of a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unſavoury Life; which had it been as true (as I bleſs God it's falſe) through the ſuffi<g ref="char:EOLhyphen"/>ciency of whoſe Grace, I have been preſer<g ref="char:EOLhyphen"/>ved from a Scandalous Life, ſince the time that I received and owned the Truth; ye for his own ſake, had he been Wife, he ſhould have forborn ſuch an Expreſſion, know<g ref="char:EOLhyphen"/>ing that his own Converſation was ſo noto<g ref="char:EOLhyphen"/>riouſly unſavoury and ſcandalous, as gave me occaſion, long before any thing of this Bread appeared, to rebuke, and reprove his for<g ref="char:EOLhyphen"/>ward and undecent appearing in our Meet<g ref="char:EOLhyphen"/>tings of buſineſs in <hi>Weſt Jerſey;</hi> and though he did in ſome part own and condemn the fact, with which he was charged, and ſhould never have been revived by me, had he kept as became him, under thoſe Circumſtances But ſince he hath ſo far forgotten himſelf, and would be thought ſo clean as to be qua<g ref="char:EOLhyphen"/>lified to judge others; I ſhall remind him of that ſuitable Admonition given by the beſt of Monitors to ſuch an one, <hi>Matth.</hi> 7. <hi>&amp;</hi> 5. <hi>Thou
+<pb n="65" facs="tcp:95148:36"/>Hypocrite firſt caſt out the beam of thine own eye,</hi> &amp;c. His next complaint is, that after I had read his Letter, which he calls his Second, I burnt it. In this he is miſtaken; for I burnt it before I read it, underſtanding from whom it came, and knowing of no buſineſs he could have with me, but to Rail and Quarrel as he did in his other, I thought therefore to diſ<g ref="char:EOLhyphen"/>courage him, from perſiſting in that courſe, and bid the Friend, at whoſe Houſe I was, tell him if he enquired for an anſwer, what uſe I made of it. But he goes on, ſaying, Why did I not anſwer it, and get ſatisfaction from the Author, but that I knew my ſelf Tardy, <hi>&amp;c?</hi> To which I Anſwer, I never knew what was in it, How then ſhould I Anſwer it? But his giving that as the Reaſon, becauſe (ſays he) he knew himſelf Tardy, put me upon a neceſſity of taking ſo much notice of his laſt Letter, as to get ſatisfaction of him, according to his Deſire and Challenge; for to do other wiſe had been to ſubmit to the guilt of his Charge; I therefore choſe, ſince he had ſo publickly reproached me, to make my Defence as publickly; which was done in open Court, in <hi>Philadelphia,</hi> the <hi>5th.</hi> of the <hi>8th.</hi> Month, 1692. But the Libeller would inſinuate, <hi>p.</hi> 10. <hi>&amp; p.</hi> 19. That <hi>Peter Boſs</hi> and his Wife much deſired to come to Tryal the Firſt Court; and urged the injuries of the delay thereof. This is ſuch a piece of Fallacy, as may not paſs without rebuke; for they were offered a Tryal the Firſt Court,
+<pb n="66" facs="tcp:95148:37"/>if they deſired it, but withal were told that the Court could not force it on them, ſo that it was left purely in their own choice; and <hi>Peter Boſs</hi> himſelf, together with his Took and Attorneys, <hi>Tho. Harris,</hi> and <hi>Charl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pickering,</hi> did in open Court deſire to have it deferred to the next Court, which wa<g ref="char:EOLhyphen"/>granted them, and the Juries diſmiſt, after which the Juſtices being together in their Chambers, <hi>Peter Boſs</hi> makes a demand of Tryal, when he knew the Juries were diſ<g ref="char:EOLhyphen"/>miſt, ſo that this was a perfect deſign the they might have an appearance of a con<g ref="char:EOLhyphen"/>plaint. The Libeller would alſo inſinuate 17. <hi>&amp;</hi> 19. as though <hi>Peter Boſs</hi> could very hardly be permitted to have his Letter a Papers read in Court, but however at <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> through much importunity, they admitte ſome of the Papers to be read, which he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> follow. It's true that the Court did object againſt Paper Evidence; But why then <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they not do me that Juſtice, to let the Wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> know, that I made it my requeſt to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Court, that they would ſuffer him to read that he had, and make the moſt of it; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> proof of any or all his Charge? Which w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> accordingly done; but to ſay through m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> importunity, they admitted ſome of the Pa<g ref="char:EOLhyphen"/>pers to be Read, which here follow, T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is as Falacious as the ſayings of the Oracles <hi>Delphos,</hi> did they admit of but ſome of the to be Read; For what Reaſon, becauſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were not all Offered to be Read, nor wer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="67" facs="tcp:95148:37"/>(I believe) all there to be Read; but have been picked up ſince that time, for I do affirm, he was not limited after my requeſt as afore<g ref="char:EOLhyphen"/>ſaid, and to remove the Courts Objections againſt it, I uſed the Words of an old Maxim, That there can be no injury to a willing Man.</p>
+            <p>So he went on to prove the Firſt Article of his Charge, <hi>viz.</hi> That I ran a Race with <hi>John Slocum,</hi> was Drunk and loſt the Wager, for proof of which, he produced a Paper ſub<g ref="char:EOLhyphen"/>ſcribed <hi>Mary Budd.</hi> This Paper ſays, That <hi>Mary Budd</hi> ſays, that <hi>Sarah Buddle</hi> ſays, that <hi>William Biddle</hi> ſays, that <hi>John Scolum</hi> ſays <hi>&amp;c.</hi> Was ever ſuch ſtuff produced in a Court for Evidence before, but to deceive the Reader they would have it believed that they produ<g ref="char:EOLhyphen"/>ced three other Evidences in Court beſides to this matter, as that of <hi>Baſtill, Beck</hi> and <hi>Bain<g ref="char:EOLhyphen"/>bridge,</hi> but nothing of it appeared then, but if it had, What do they ſay? Why all upon report, and that falſe too. But <hi>George Keith</hi> being in Court, and I having heard, that he had made it his great care to enquire into this matter of <hi>John Slocum</hi> himſelf, (for what end I leave) I did deſire him that ſince I was openly Charged, that he would do me that Juſtice as to declare <hi>Slocum</hi>'s anſwer to him, which he refuſing, I told him, then I ſhould do it as I heard it, which was as followeth, <hi>viz.</hi> That he told <hi>G. K.</hi> it was a bad Spirit in him, that went about to pick up matter againſt his Neighbours: But <hi>G. K.</hi> preſſing
+<pb n="68" facs="tcp:95148:38"/>further to know if the matter were true, told him, it was not true. Now <hi>G. K.</hi> knowing this, it had been but bare Juſtice, not to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> generous, to have declared it. But for the farther clearing of this point, here follow a Certificate, under the hand of a Perſon that providence ordered to be now in <hi>England</hi> who was in my company all that Journey, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this was ſaid to be done, that doth farther clear me of that ſcandal, as alſo of another raiſed upon me ſince the Printing of the Malicious Libel, of which I ſhall take note in its place.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="testimonial">
+                        <pb n="69" facs="tcp:95148:38"/>
+                        <p>WHEREAS it is Infinuated by 'Print and otherways, that <hi>Samuel Jennings</hi> did Run a Horſe Race with <hi>John Scolum,</hi> and was Drunk, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nd loſt the Wager, at the time when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e <hi>Weſt Jerſey</hi> Commiſſioners met with them of the <hi>Eaſt Jerſey;</hi> and alſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>at he was Drunk at the ſame time, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> the Houſe of one <hi>Robert Cole</hi> at <hi>
+                              <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>mboy;</hi> I being in his company, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e employed in that Service, <hi>viz.</hi> For greeing the Partition-line betwixt the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o Provinces, do know the ſaid Re<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rts to be falſe.</p>
+                        <closer>
+                           <dateline>
+                              <hi>
+                                 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>eſs my Hand,</hi> 
+                              <date>
+                                 <hi>this</hi> 29th. <hi>
+                                    <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap> the</hi> 3d. <hi>Month.</hi> 1694.</date>
+                           </dateline>
+                           <signed>Robert Dinsdale.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div n="2" type="rebuttal">
+               <pb n="70" facs="tcp:95148:39"/>
+               <head>To the Second Article,</head>
+               <p>That I was Drunk on Board <hi>Joſeph Bryar</hi> Ship, when at <hi>Burlington,</hi> that I could ſcare get over the ſide; This is an abſolute fall hood, which <hi>Peter Boſs</hi> knew to be ſo, the perſon whom he had reported to have ſaid <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> derſied it, before he had thus accuſed me in that Paper. Judge then what manner <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> uſage I have had from theſe my implacable Adverſaries: But to clear the point further When this ſlander was abroad in Print, <hi>Joſeph Bryar</hi> meeting with it, without my knowledge or deſire, ſent me a Certificate of my clear<g ref="char:EOLhyphen"/>neſs in that matter; Which though I cannot inſert, not having it here, yet if any will <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ture farther to inſiſt upon it, I ſhall produce as alſo divers teſtimonies from Friends an<g ref="char:EOLhyphen"/>others that were with me at that time: For I know not that I was ever more then one on Board the Ship of <hi>Joſeph Bryar,</hi> ſeven Neighbours with their Wives being then in<g ref="char:EOLhyphen"/>vited, and there.</p>
+            </div>
+            <div n="3" type="rebuttal">
+               <head>To the Third Article.</head>
+               <p>Whether I did not wickedly, in Survey<g ref="char:EOLhyphen"/>ing a Tract of Land, which <hi>John Antrum</hi> h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> actually began to do? This is falſe, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing offered to prove it, which I take to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> becauſe he knew it was ſo.</p>
+            </div>
+            <div n="4" type="rebuttal">
+               <pb n="71" facs="tcp:95148:39"/>
+               <head>To the Fourth Article.</head>
+               <p>Whether I did not take away the Meadow of <hi>Rich. Matthews,</hi> &amp;c? for which he produ<g ref="char:EOLhyphen"/>ced a long idle ſtory from <hi>Daniel Leeds,</hi> who told me, he had Surveyed that formerly to <hi>Rich. Matthews,</hi> if that be true, 'twill termi<g ref="char:EOLhyphen"/>nate the matter, for it muſt reſolve in this, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it were Surveyed to <hi>Rich. Matthews,</hi> it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld not be legally Surveyed to me. If it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere not Surveyed to him, then it was com<g ref="char:EOLhyphen"/>mon Land, and might be Surveyed to me, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y body elſe. But I have heard by one that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as preſent when <hi>Rich. Matthews</hi>'s Land was Surveyed; that this Meadow was intended to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Surveyed to it, but was not then done, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r do I hear of any pretence to the doing of ſince. So that I am the more confirm'd it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s never done by that lame Record of <hi>Daniel <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ds</hi>'s producing, that gives no account of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urſes, Diſtances, nor number of Acres of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adow, which is ſuch a return, as one pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ding to art would bluſh at. But however <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e can be no wrong done by me to <hi>Richard <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tthews;</hi> for either it was Surveyed to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, or it was not; if it were, then he has it, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t were not, What pretence hath he to it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e than I, who am a Co-ordinate Proprietor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h him?</p>
+            </div>
+            <div n="5" type="rebuttal">
+               <pb n="72" facs="tcp:95148:40"/>
+               <head>The Fifth and laſt Article.</head>
+               <p>Relating to me, is only a ſuggeſtion in general terms of abuſes done to <hi>John Skeen</hi> Deceaſed, which if <hi>Peter Boſs</hi> had nothing to ſay to make good his Charges, I ſhall need to ſay as little in my defence.</p>
+            </div>
+            <div n="6-7" type="rebuttal">
+               <head>As to the Sixth and Seventh Article.</head>
+               <p>Where he ſquibbingly queries, Whether it were <hi>S. J.</hi> or <hi>J. Simcock,</hi> that was carried Drunk to Bed, betwixt to perſons? And whether it were the ſaid <hi>S. J.</hi> or <hi>J. Simcod</hi> that was Drunk, loſt a Coat that was borrow<g ref="char:EOLhyphen"/>ed of another Man? Theſe things I know nothing of, and believe that <hi>J. Simcock</hi> de<g ref="char:EOLhyphen"/>ſerves not ſo baſe a Reflection, being a M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fearing God, and of good Repute in the Country, but his Crime is that he is one of the Twenty Eight, that flrſt appeared in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> teſtimony againſt <hi>G. K.</hi> &amp;c.</p>
+               <p>Thus Reader if thou art impartial, thou wilt ſee and grant, how little matter is i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this great and loud Charge, and nothing proved; ſo that all indifferent People did nauſeate, and abnor the baſeneſs of the praction of this Man <hi>Peter Boſs,</hi> whom the Jury found only Guilty, as they ſay, of tranſgreſſing the 29th. Chapter of the Laws of this Pro<g ref="char:EOLhyphen"/>vince, <hi>&amp;c.</hi> For which he was Fined Six Pound.</p>
+               <pb n="73" facs="tcp:95148:40"/>
+               <p>The word only here, is given to put an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mphaſis upon the Verdict, which ſhews, how <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight a matter the Libeller eſteems it, to ſlight <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Condemn Magiſtracy and Government, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e neceſſity and dignity of which is not to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e diſputed in it ſelf, how mean ſoever the inſtruments of it be, ſince we have always awned it to be an Ordinance of God. As <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o divers other things ſuggeſted againſt me <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that malicious Libel, relating to the uſage of my Servants, <hi>&amp;c.</hi> repreſenting me either ruel or obſcene: I deny any one thing as here ſuggeſted to be true; and were it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eedful, I could procure, as large a teſtimo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of the good uſage of my Servants perhaps <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> any Man in that Country, that hath been laſter of ſo many, and that from the very <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ands of thoſe that I am repreſented to abuſe: though I was never principled againſt giving <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Correction to Servants; and in that Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y where Servants are bound for time; it's <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery well known, how froward many have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roved, with deſign if poſſible, to torment <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d tire thoſe they have belonged to, to force <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em to give them their freedom.</p>
+               <p>I ſhall give but one Inſtance more, of the reaſure I have had from theſe People, I mean <hi>G. K. P. B.</hi> &amp;c. and ſo come to a Concluſion, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aving been much larger then I intended, or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y circumſtances for time would well allow, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Book indeed deſerved, being it's ſuch <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> none here, nor any where elſe can yet be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und by me to own. The matter is this, as
+<pb n="74" facs="tcp:95148:41"/>near as I can relate it, not having the Paper by me. Whilſt <hi>Peter Boſs</hi> was in the Priſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at <hi>Philadelphia,</hi> he ſays there came to viſit hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one <hi>Robert Cole,</hi> who asked, What are you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Priſon for. Saying <hi>S. I.</hi> was Drunk? I'le pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that, for he was Drunk at my Houſe and Spew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Bed, and gave the Maid a piece of Eight to clean it. This <hi>Peter Boſs</hi> &amp;c. ſpread To<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Country, by ſmall Manuſcripts, thr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into the hands of ſuch as never were of o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Communion, for it came too late to be Pric<g ref="char:EOLhyphen"/>ed with the reſt, or elſe no doubt we had <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it. When I heard it, I deſired two Friend who lived near <hi>Cole,</hi> to enquire if he had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reported; he told them if he had, he did <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> know it, for he confeſſed he was Drunk, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he was in Priſon with <hi>Peter Boſs,</hi> and th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> knew no ſuch thing by me, but ſaid, on <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Morrow after he had been with <hi>P. B. Geo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Keith</hi> deſired to ſpeak with him, and wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> together, <hi>G. K.</hi> asked him, concerning wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he was ſaid to have reported of me, he t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him, as he ſays, that he knew no ſuch thing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me, <hi>G. K.</hi> told him, an honeſt Man would <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as good as his word; and he having ſaid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Why ſhould he deny it? He ſaid, he know not that ever he ſaid it, but did Confeſs, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was Drunk, and knew not what he ſaid: B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>G. K.</hi> preſſed it ſo far, till as <hi>Cole</hi> ſays, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Wife deſired him to deſiſt, ſaying, Husband the Man ſays he was Drunk, therefore let him alone. Yet notwithſtanding the report was ſpread by Paper, <hi>&amp;c.</hi> to the utmoſt of their
+<pb n="75" facs="tcp:95148:41"/>power. I ſhall not need to aggravate this, by making any remarks upon it, being ſo loath<g ref="char:EOLhyphen"/>ſome in it ſelf, as cannot be related without great reluctancy. How like this was to Sufferers for Religion, and under the weight of a heavy Perſecution; I ſhall leave my Reader free to ſudge, and pray God to forgive the Iniquity of my Enemies, that have bitterly belcht out, and thrown forth whole floods of reproach a<g ref="char:EOLhyphen"/>gainſt me, which how ill ſoever it hath been on their part, I bleſs God, I have been carried through it and over it, and can hardly count it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuffering, eſteeming i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as my Crown, to be reproached, by ſuch as Apoſtatize from the Truth, with which I have been acquainted long <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ough, to make it familiar and eaſie to me. And it is my great ſatisfaction that the unkind<g ref="char:EOLhyphen"/>neſſes I have met with in this Nation, at this or any other time, nath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>een moſtly from thoſe, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at have been concerned in, or favourers of, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Old or New Separation, which, rather than <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would purchaſe their favour, at ſo dear a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate, as to ſpare them, much leſs to fall in with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem, (till they repent) I would rather chuſe, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſtand expoſed to their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tmoſt rage and fury. And though I am not wholly unknown, nor a granger in this Nation, and have reaſon many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ays to be endeared to it, and more, that the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay of God's Love reached me in it, than that drew my firſt Breath in it. Yet having had my eſidence for more then 14 Years, in a remote and, it may with reaſon be ſuppoſed, that my condition and Carriage may be better known
+<pb n="76" facs="tcp:95148:42"/>there than here: For which Reaſon, I have choſen to publiſh the Certificate, ſent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me by Friends there, who remain in Un<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and have not been defiled with <hi>G. K.</hi>'s. S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> paration, which I intend for a Concluſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of this Work.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="77" facs="tcp:95148:42"/>
+               <head>To our Dear Friends and Faithful Brethren in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and elſewhere, where theſe may come; From our Quarterly Meeting in <hi>Phi<g ref="char:EOLhyphen"/>ladelphia,</hi> in <hi>Penſilvania,</hi> the <hi>4th.</hi> of the <hi>10th.</hi> Month, 1693.</head>
+               <p>IN a tender ſenſe of that Everlaſting Love which God the Father through his Dear Son Chriſt Jeſus hath Loved us, and United us together in the Unity of his Spirit, and Bond of Peace, where there is no Rent, or Diviſion, Hatred, or Prejudice, do we ſin<g ref="char:EOLhyphen"/>cerely ſalute you all; Earneſtly deſiring, that Grace, Mercy and Peace, Love, Unity and Concord, be more and more multiplied amongſt you, and us, and all God's Heritage every where: And that it may pleaſe the Lord to ſubdue, and cauſe that to wither and decay that would break our Unity, trouble
+<pb n="78" facs="tcp:95148:43"/>the Common-wealth of <hi>Iſrael;</hi> and lay Stumb<g ref="char:EOLhyphen"/>ling-blocks in their way. Although it's a day of great Tryal, Exerciſe and Affliction to the Seed of <hi>Jacob</hi> in this part of the World, yet we have cauſe to ſay, it's a day of God's Love, ſo that many were never nearer to the Lord, or enjoyed more of his preſence, which ſweetens the waters of afflictions, and makes the paſſage through the vale of tears and mourning eaſie unto us, the Lord having raiſed our deſires after, and given us a mea<g ref="char:EOLhyphen"/>ſure of the ſence of the durable reward, and Kingdom of Everlaſting Joy, Reſt and Peace.</p>
+               <p>Our dear and well eſteemed Friend <hi>Same Jennings,</hi> having laid his intention before the Meeting of going for <hi>England,</hi> to viſit Frieds there; We thought fit, and alſo our duty to certifie unto you, that we have good Uni<g ref="char:EOLhyphen"/>ty with him in the Spirit and Life of Jeſus whoſe Labour and Trayel in the Goſpel <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Peace and Salvation, the Lord hath bee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleaſed to make ſucceſsful, ſo that his Living and Savoury Teſtimony, has a ſeal in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Hearts of the true <hi>Iſraelites</hi> of God, in th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>American</hi> Parts; who has ſtood firm in the Building of the Lord, againſt that Spirit i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>George Keith</hi> and his Adherents, that would Divide, Rent and Scatter; and many have been the Malicious Arrows that have been Shot at him, endeavouring with all the Art and Parts, that Spirit could prompt them to, to Villfie, and Wickedly to Calumniate him
+<pb n="79" facs="tcp:95148:43"/>both with Tongue and Preſs; therefore the Love of God, and the regard we have to his Truth, conſtrains us to certifie unto you, that as far as we can underſtand, he is clear from the falſe Aſperſions and Defamations, that has been ſpread abroad in many Countries, by the ſaid <hi>G. K.</hi> and his Adherents, having been cleared in the face of the Country of many of them, with ſhame to the falſe Ac<g ref="char:EOLhyphen"/>cuſer.</p>
+               <p>[<hi>Note,</hi> The Friends ſaying, I have been cleared in the face of the Country, with ſhame to the falſe Accuſer, of many of the Aſperſions and Defamations caſt upon me, re<g ref="char:EOLhyphen"/>ſpect all that was in <hi>P. B</hi>'s. Letter to me, which was all that they then ſuggeſted.]</p>
+               <p>We remain your Dearly Be<g ref="char:EOLhyphen"/>loved Friends, and Exer<g ref="char:EOLhyphen"/>ciſed Brethren,
+<list>
+                     <item>
+                        <hi>George Walker,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Ewer,</hi>
+                     </item>
+                     <item>
+                        <hi>John Goodſon,</hi>
+                     </item>
+                     <item>
+                        <hi>George Gray,</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Morris,</hi>
+                     </item>
+                     <item>
+                        <hi>James Fox,</hi>
+                     </item>
+                     <item>
+                        <hi>John Jennet,</hi>
+                     </item>
+                     <item>
+                        <hi>William Southbe,</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Jackſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Worell,</hi>
+                     </item>
+                     <item>
+                        <hi>Benj. Chambers,</hi>
+                     </item>
+                     <item>
+                        <hi>John Fletcher,</hi>
+                     </item>
+                     <pb n="80" facs="tcp:95148:44" rendition="simple:additions"/>
+                     <item>
+                        <hi>John Parſons,</hi>
+                     </item>
+                     <item>
+                        <hi>Alex. Beardſley,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Bradford,</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Townſend,</hi>
+                     </item>
+                     <item>
+                        <hi>John Kinſy,</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Richardſon,</hi>
+                     </item>
+                     <item>
+                        <hi>William Gabitas,</hi>
+                     </item>
+                     <item>
+                        <hi>John Lynam,</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Fitzwater,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lloyd,</hi>
+                     </item>
+                     <item>
+                        <hi>Arthur Cooke,</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith Owen,</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Paul,</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Oliver,</hi>
+                     </item>
+                     <item>
+                        <hi>Derick op de Greet,</hi>
+                     </item>
+                     <item>
+                        <hi>Reiner Tieſey,</hi>
+                     </item>
+                     <item>
+                        <hi>Pieter Soemaker,</hi>
+                     </item>
+                     <item>
+                        <hi>Caſpar Hoodt,</hi>
+                     </item>
+                     <item>
+                        <hi>Giles Knight,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Burrow,</hi>
+                     </item>
+                     <item>
+                        <hi>John Buzby,</hi>
+                     </item>
+                     <item>
+                        <hi>David Brentnall,</hi>
+                     </item>
+                     <item>
+                        <hi>Joſhua Haſtings,</hi>
+                     </item>
+                     <item>
+                        <hi>Abrah. Hardiman,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Canby,</hi>
+                     </item>
+                     <item>
+                        <hi>John Haſtings,</hi>
+                     </item>
+                     <item>
+                        <hi>William Walker.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
